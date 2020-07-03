@@ -1,0 +1,2124 @@
+IPC Section By Field
+A01
+	agriculture fisheries & forestry	0.14323607427055704
+	biology	0.3103448275862069
+	biomedical research	0.11140583554376658
+	chemistry	0.14588859416445624
+	clinical medicine	0.029177718832891247
+	earth & environmental sciences	0.005305039787798408
+	enabling & strategic technologies	0.10610079575596817
+	engineering	0.023872679045092837
+	general science & technology	0.07427055702917772
+	information & communication technologies	0.04509283819628647
+	physics & astronomy	0.002652519893899204
+	public health & health services	0.002652519893899204
+A21
+	agriculture fisheries & forestry	0.2857142857142857
+	biology	0.14285714285714285
+	biomedical research	0.2857142857142857
+	clinical medicine	0.14285714285714285
+	engineering	0.14285714285714285
+A22
+	agriculture fisheries & forestry	1.0
+A23
+	agriculture fisheries & forestry	0.21238938053097345
+	biology	0.10619469026548672
+	biomedical research	0.21238938053097345
+	chemistry	0.07964601769911504
+	clinical medicine	0.07079646017699115
+	enabling & strategic technologies	0.061946902654867256
+	engineering	0.02654867256637168
+	general science & technology	0.20353982300884957
+	information & communication technologies	0.008849557522123894
+	mathematics & statistics	0.008849557522123894
+	physics & astronomy	0.008849557522123894
+A24
+	chemistry	0.25
+	clinical medicine	0.25
+	engineering	0.25
+	public health & health services	0.25
+A41
+	chemistry	1.0
+A42
+	chemistry	0.5
+	engineering	0.5
+A43
+	chemistry	0.3333333333333333
+	engineering	0.6666666666666666
+A44
+	earth & environmental sciences	0.5
+	general science & technology	0.5
+A45
+	chemistry	0.09090909090909091
+	clinical medicine	0.09090909090909091
+	enabling & strategic technologies	0.18181818181818182
+	engineering	0.18181818181818182
+	general science & technology	0.09090909090909091
+	information & communication technologies	0.18181818181818182
+	physics & astronomy	0.09090909090909091
+	public health & health services	0.09090909090909091
+A46
+	engineering	0.5
+	general science & technology	0.5
+A47
+	agriculture fisheries & forestry	0.02857142857142857
+	biomedical research	0.05714285714285714
+	built environment & design	0.02857142857142857
+	chemistry	0.14285714285714285
+	clinical medicine	0.02857142857142857
+	enabling & strategic technologies	0.17142857142857143
+	engineering	0.34285714285714286
+	general science & technology	0.05714285714285714
+	information & communication technologies	0.02857142857142857
+	physics & astronomy	0.08571428571428572
+	public health & health services	0.02857142857142857
+A61
+	agriculture fisheries & forestry	0.018619436875567667
+	biology	0.018619436875567667
+	biomedical research	0.1226158038147139
+	built environment & design	4.5413260672116256E-4
+	chemistry	0.11807447774750227
+	clinical medicine	0.5971843778383288
+	clinical medicine f	0.005449591280653951
+	communication & textual studies	9.082652134423251E-4
+	earth & environmental sciences	0.002270663033605813
+	enabling & strategic technologies	0.013169845594913715
+	engineering	0.07811080835603997
+	general science & technology	0.0027247956403269754
+	information & communication technologies	0.005903723887375113
+	physics & astronomy	0.005903723887375113
+	psychology & cognitive sciences	9.082652134423251E-4
+	public health & health services	0.009082652134423252
+A62
+	biology	0.2857142857142857
+	biomedical research	0.2857142857142857
+	clinical medicine	0.14285714285714285
+	earth & environmental sciences	0.14285714285714285
+	engineering	0.14285714285714285
+A63
+	chemistry	0.21428571428571427
+	clinical medicine	0.07142857142857142
+	enabling & strategic technologies	0.07142857142857142
+	engineering	0.5
+	information & communication technologies	0.14285714285714285
+B01
+	biology	0.010752688172043012
+	biomedical research	0.007168458781362007
+	chemistry	0.32616487455197135
+	clinical medicine	0.06093189964157706
+	earth & environmental sciences	0.04659498207885305
+	enabling & strategic technologies	0.25806451612903225
+	engineering	0.20430107526881722
+	information & communication technologies	0.02867383512544803
+	physics & astronomy	0.05734767025089606
+B02
+	built environment & design	0.3333333333333333
+	enabling & strategic technologies	0.3333333333333333
+	engineering	0.3333333333333333
+B03
+	chemistry	0.11764705882352941
+	clinical medicine	0.17647058823529413
+	enabling & strategic technologies	0.47058823529411764
+	engineering	0.17647058823529413
+	physics & astronomy	0.058823529411764705
+B04
+	physics & astronomy	1.0
+B05
+	agriculture fisheries & forestry	0.047619047619047616
+	chemistry	0.2857142857142857
+	clinical medicine	0.047619047619047616
+	enabling & strategic technologies	0.09523809523809523
+	engineering	0.2857142857142857
+	physics & astronomy	0.23809523809523808
+B08
+	clinical medicine	0.25
+	enabling & strategic technologies	0.25
+	engineering	0.5
+B09
+	biology	0.3333333333333333
+	biomedical research	0.3333333333333333
+	enabling & strategic technologies	0.3333333333333333
+B21
+	chemistry	0.11764705882352941
+	earth & environmental sciences	0.11764705882352941
+	enabling & strategic technologies	0.058823529411764705
+	engineering	0.5882352941176471
+	information & communication technologies	0.058823529411764705
+	mathematics & statistics	0.058823529411764705
+B22
+	chemistry	0.36585365853658536
+	clinical medicine	0.024390243902439025
+	earth & environmental sciences	0.024390243902439025
+	enabling & strategic technologies	0.3902439024390244
+	engineering	0.1951219512195122
+B23
+	chemistry	0.125
+	earth & environmental sciences	0.0625
+	engineering	0.6875
+	information & communication technologies	0.0625
+	physics & astronomy	0.0625
+B24
+	enabling & strategic technologies	0.4
+	engineering	0.4
+	information & communication technologies	0.2
+B25
+	agriculture fisheries & forestry	0.1
+	engineering	0.6
+	information & communication technologies	0.2
+	mathematics & statistics	0.1
+B26
+	agriculture fisheries & forestry	0.14285714285714285
+	enabling & strategic technologies	0.2857142857142857
+	engineering	0.42857142857142855
+	information & communication technologies	0.14285714285714285
+B27
+	chemistry	0.5
+	engineering	0.25
+	mathematics & statistics	0.25
+B28
+	built environment & design	1.0
+B29
+	built environment & design	0.015151515151515152
+	chemistry	0.3181818181818182
+	clinical medicine	0.15151515151515152
+	earth & environmental sciences	0.015151515151515152
+	enabling & strategic technologies	0.13636363636363635
+	engineering	0.2878787878787879
+	mathematics & statistics	0.015151515151515152
+	physics & astronomy	0.06060606060606061
+B30
+	engineering	1.0
+B31
+	enabling & strategic technologies	0.5
+	information & communication technologies	0.5
+B32
+	chemistry	0.631578947368421
+	clinical medicine	0.05263157894736842
+	earth & environmental sciences	0.05263157894736842
+	enabling & strategic technologies	0.05263157894736842
+	engineering	0.05263157894736842
+	mathematics & statistics	0.05263157894736842
+	physics & astronomy	0.10526315789473684
+B33
+	engineering	1.0
+B41
+	chemistry	0.058823529411764705
+	clinical medicine	0.058823529411764705
+	communication & textual studies	0.058823529411764705
+	enabling & strategic technologies	0.058823529411764705
+	engineering	0.17647058823529413
+	general science & technology	0.058823529411764705
+	information & communication technologies	0.4117647058823529
+	physics & astronomy	0.11764705882352941
+B42
+	engineering	1.0
+B43
+	engineering	1.0
+B44
+	biology	0.3333333333333333
+	chemistry	0.3333333333333333
+	earth & environmental sciences	0.3333333333333333
+B60
+	biology	0.010638297872340425
+	biomedical research	0.010638297872340425
+	built environment & design	0.010638297872340425
+	chemistry	0.10638297872340426
+	clinical medicine	0.02127659574468085
+	enabling & strategic technologies	0.11702127659574468
+	engineering	0.5531914893617021
+	general science & technology	0.010638297872340425
+	information & communication technologies	0.07446808510638298
+	mathematics & statistics	0.010638297872340425
+	physics & astronomy	0.07446808510638298
+B61
+	engineering	0.8181818181818182
+	mathematics & statistics	0.09090909090909091
+	physics & astronomy	0.09090909090909091
+B62
+	biomedical research	0.043478260869565216
+	chemistry	0.043478260869565216
+	clinical medicine	0.08695652173913043
+	enabling & strategic technologies	0.043478260869565216
+	engineering	0.5217391304347826
+	information & communication technologies	0.17391304347826086
+	physics & astronomy	0.08695652173913043
+B63
+	chemistry	0.3333333333333333
+	clinical medicine	0.16666666666666666
+	earth & environmental sciences	0.16666666666666666
+	engineering	0.3333333333333333
+B64
+	agriculture fisheries & forestry	0.08333333333333333
+	chemistry	0.5
+	engineering	0.3333333333333333
+	information & communication technologies	0.08333333333333333
+B65
+	agriculture fisheries & forestry	0.03636363636363636
+	biology	0.05454545454545454
+	biomedical research	0.03636363636363636
+	built environment & design	0.01818181818181818
+	chemistry	0.2
+	clinical medicine	0.03636363636363636
+	earth & environmental sciences	0.03636363636363636
+	enabling & strategic technologies	0.16363636363636364
+	engineering	0.2727272727272727
+	information & communication technologies	0.05454545454545454
+	physics & astronomy	0.07272727272727272
+	public health & health services	0.01818181818181818
+B66
+	engineering	0.875
+	information & communication technologies	0.125
+B67
+	agriculture fisheries & forestry	0.2857142857142857
+	enabling & strategic technologies	0.42857142857142855
+	engineering	0.14285714285714285
+	physics & astronomy	0.14285714285714285
+B82
+	chemistry	0.15384615384615385
+	clinical medicine	0.07692307692307693
+	enabling & strategic technologies	0.46153846153846156
+	engineering	0.15384615384615385
+	physics & astronomy	0.15384615384615385
+C01
+	agriculture fisheries & forestry	0.012048192771084338
+	chemistry	0.46987951807228917
+	clinical medicine	0.012048192771084338
+	earth & environmental sciences	0.0963855421686747
+	enabling & strategic technologies	0.13253012048192772
+	engineering	0.0963855421686747
+	information & communication technologies	0.060240963855421686
+	physics & astronomy	0.12048192771084337
+C02
+	biology	0.0547945205479452
+	biomedical research	0.0958904109589041
+	built environment & design	0.0136986301369863
+	chemistry	0.136986301369863
+	clinical medicine	0.0136986301369863
+	communication & textual studies	0.0136986301369863
+	enabling & strategic technologies	0.3013698630136986
+	engineering	0.3013698630136986
+	general science & technology	0.0136986301369863
+	physics & astronomy	0.0410958904109589
+	public health & health services	0.0136986301369863
+C03
+	chemistry	0.3
+	earth & environmental sciences	0.1
+	enabling & strategic technologies	0.3
+	general science & technology	0.1
+	physics & astronomy	0.2
+C04
+	agriculture fisheries & forestry	0.047619047619047616
+	built environment & design	0.047619047619047616
+	chemistry	0.38095238095238093
+	earth & environmental sciences	0.23809523809523808
+	enabling & strategic technologies	0.14285714285714285
+	engineering	0.14285714285714285
+C05
+	agriculture fisheries & forestry	0.08823529411764706
+	biology	0.029411764705882353
+	biomedical research	0.23529411764705882
+	chemistry	0.20588235294117646
+	enabling & strategic technologies	0.2647058823529412
+	engineering	0.029411764705882353
+	general science & technology	0.14705882352941177
+C07
+	agriculture fisheries & forestry	0.006122448979591836
+	biology	0.026530612244897958
+	biomedical research	0.15714285714285714
+	chemistry	0.3122448979591837
+	clinical medicine	0.2693877551020408
+	earth & environmental sciences	0.0020408163265306124
+	enabling & strategic technologies	0.17959183673469387
+	engineering	0.014285714285714285
+	historical studies	0.0020408163265306124
+	information & communication technologies	0.01020408163265306
+	physics & astronomy	0.012244897959183673
+	psychology & cognitive sciences	0.0020408163265306124
+	public health & health services	0.006122448979591836
+C08
+	agriculture fisheries & forestry	0.04819277108433735
+	biology	0.020080321285140562
+	biomedical research	0.04819277108433735
+	chemistry	0.5903614457831325
+	clinical medicine	0.08032128514056225
+	earth & environmental sciences	0.004016064257028112
+	enabling & strategic technologies	0.1566265060240964
+	engineering	0.028112449799196786
+	information & communication technologies	0.01606425702811245
+	physics & astronomy	0.008032128514056224
+C09
+	biology	0.011235955056179775
+	biomedical research	0.056179775280898875
+	chemistry	0.38202247191011235
+	clinical medicine	0.0449438202247191
+	earth & environmental sciences	0.06741573033707865
+	enabling & strategic technologies	0.14606741573033707
+	engineering	0.0449438202247191
+	information & communication technologies	0.1797752808988764
+	physics & astronomy	0.06741573033707865
+C10
+	agriculture fisheries & forestry	0.015384615384615385
+	biology	0.015384615384615385
+	biomedical research	0.015384615384615385
+	chemistry	0.5538461538461539
+	clinical medicine	0.03076923076923077
+	earth & environmental sciences	0.09230769230769231
+	enabling & strategic technologies	0.2153846153846154
+	engineering	0.046153846153846156
+	information & communication technologies	0.015384615384615385
+C11
+	agriculture fisheries & forestry	0.09090909090909091
+	biology	0.09090909090909091
+	biomedical research	0.09090909090909091
+	chemistry	0.3181818181818182
+	clinical medicine	0.19696969696969696
+	earth & environmental sciences	0.030303030303030304
+	enabling & strategic technologies	0.045454545454545456
+	engineering	0.06060606060606061
+	information & communication technologies	0.06060606060606061
+	mathematics & statistics	0.015151515151515152
+C12
+	agriculture fisheries & forestry	0.022058823529411766
+	biology	0.22794117647058823
+	biomedical research	0.3284313725490196
+	chemistry	0.031862745098039214
+	clinical medicine	0.18382352941176472
+	earth & environmental sciences	0.0024509803921568627
+	enabling & strategic technologies	0.1568627450980392
+	engineering	0.01715686274509804
+	general science & technology	0.00980392156862745
+	mathematics & statistics	0.00980392156862745
+	physics & astronomy	0.00980392156862745
+C13
+	agriculture fisheries & forestry	0.25
+	biology	0.25
+	biomedical research	0.25
+	engineering	0.25
+C21
+	agriculture fisheries & forestry	0.015384615384615385
+	chemistry	0.03076923076923077
+	clinical medicine	0.015384615384615385
+	earth & environmental sciences	0.38461538461538464
+	enabling & strategic technologies	0.4153846153846154
+	engineering	0.1076923076923077
+	physics & astronomy	0.03076923076923077
+C22
+	chemistry	0.008064516129032258
+	earth & environmental sciences	0.3790322580645161
+	enabling & strategic technologies	0.41935483870967744
+	engineering	0.18548387096774194
+	physics & astronomy	0.008064516129032258
+C23
+	chemistry	0.23076923076923078
+	earth & environmental sciences	0.038461538461538464
+	enabling & strategic technologies	0.34615384615384615
+	engineering	0.34615384615384615
+	information & communication technologies	0.038461538461538464
+C25
+	chemistry	0.11538461538461539
+	enabling & strategic technologies	0.34615384615384615
+	engineering	0.19230769230769232
+	information & communication technologies	0.038461538461538464
+	physics & astronomy	0.3076923076923077
+Cli
+D01
+	chemistry	0.5714285714285714
+	earth & environmental sciences	0.14285714285714285
+	physics & astronomy	0.2857142857142857
+D02
+	enabling & strategic technologies	1.0
+D03
+	chemistry	0.4
+	enabling & strategic technologies	0.4
+	engineering	0.2
+D04
+	biology	0.07692307692307693
+	built environment & design	0.07692307692307693
+	chemistry	0.46153846153846156
+	earth & environmental sciences	0.07692307692307693
+	enabling & strategic technologies	0.07692307692307693
+	engineering	0.15384615384615385
+	mathematics & statistics	0.07692307692307693
+D06
+	chemistry	0.5882352941176471
+	enabling & strategic technologies	0.17647058823529413
+	engineering	0.23529411764705882
+D21
+	biology	0.06666666666666667
+	chemistry	0.36666666666666664
+	clinical medicine	0.03333333333333333
+	earth & environmental sciences	0.06666666666666667
+	enabling & strategic technologies	0.3
+	engineering	0.06666666666666667
+	general science & technology	0.03333333333333333
+	physics & astronomy	0.06666666666666667
+E01
+	engineering	0.75
+	physics & astronomy	0.25
+E02
+	built environment & design	0.3333333333333333
+	enabling & strategic technologies	0.3333333333333333
+	physics & astronomy	0.3333333333333333
+E03
+	biology	0.16666666666666666
+	built environment & design	0.16666666666666666
+	engineering	0.3333333333333333
+	general science & technology	0.16666666666666666
+	public health & health services	0.16666666666666666
+E04
+	biology	0.038461538461538464
+	built environment & design	0.23076923076923078
+	chemistry	0.11538461538461539
+	clinical medicine	0.038461538461538464
+	earth & environmental sciences	0.07692307692307693
+	enabling & strategic technologies	0.07692307692307693
+	engineering	0.23076923076923078
+	information & communication technologies	0.07692307692307693
+	mathematics & statistics	0.07692307692307693
+	physics & astronomy	0.038461538461538464
+E05
+	built environment & design	0.07692307692307693
+	chemistry	0.07692307692307693
+	clinical medicine	0.07692307692307693
+	engineering	0.38461538461538464
+	information & communication technologies	0.38461538461538464
+E06
+	biology	0.2
+	chemistry	0.4
+	engineering	0.2
+	physics & astronomy	0.2
+E21
+	biology	0.0125
+	biomedical research	0.025
+	chemistry	0.1375
+	clinical medicine	0.0625
+	earth & environmental sciences	0.125
+	enabling & strategic technologies	0.175
+	engineering	0.2375
+	information & communication technologies	0.1
+	mathematics & statistics	0.0125
+	physics & astronomy	0.1125
+F01
+	chemistry	0.17391304347826086
+	enabling & strategic technologies	0.17391304347826086
+	engineering	0.5652173913043478
+	physics & astronomy	0.08695652173913043
+F02
+	chemistry	0.1
+	enabling & strategic technologies	0.075
+	engineering	0.75
+	information & communication technologies	0.025
+	physics & astronomy	0.05
+F03
+	agriculture fisheries & forestry	0.06666666666666667
+	chemistry	0.06666666666666667
+	enabling & strategic technologies	0.2
+	engineering	0.5333333333333333
+	information & communication technologies	0.06666666666666667
+	physics & astronomy	0.06666666666666667
+F04
+	communication & textual studies	0.14285714285714285
+	engineering	0.8571428571428571
+F05
+	chemistry	0.5
+	engineering	0.5
+F15
+	engineering	1.0
+F16
+	biology	0.02702702702702703
+	biomedical research	0.04054054054054054
+	built environment & design	0.013513513513513514
+	chemistry	0.02702702702702703
+	clinical medicine	0.013513513513513514
+	earth & environmental sciences	0.05405405405405406
+	enabling & strategic technologies	0.10810810810810811
+	engineering	0.6081081081081081
+	information & communication technologies	0.06756756756756757
+	physics & astronomy	0.04054054054054054
+F17
+	agriculture fisheries & forestry	0.3333333333333333
+	earth & environmental sciences	0.3333333333333333
+	engineering	0.3333333333333333
+F21
+	engineering	0.5714285714285714
+	physics & astronomy	0.42857142857142855
+F23
+	earth & environmental sciences	0.5
+	engineering	0.5
+F24
+	chemistry	0.10526315789473684
+	enabling & strategic technologies	0.10526315789473684
+	engineering	0.3684210526315789
+	information & communication technologies	0.2631578947368421
+	physics & astronomy	0.15789473684210525
+F25
+	agriculture fisheries & forestry	0.08333333333333333
+	chemistry	0.16666666666666666
+	clinical medicine	0.08333333333333333
+	engineering	0.5
+	physics & astronomy	0.16666666666666666
+F26
+	enabling & strategic technologies	0.5
+	mathematics & statistics	0.5
+F27
+	built environment & design	0.2
+	enabling & strategic technologies	0.2
+	engineering	0.6
+F28
+	earth & environmental sciences	0.14285714285714285
+	engineering	0.14285714285714285
+	physics & astronomy	0.7142857142857143
+F42
+	enabling & strategic technologies	0.5
+	information & communication technologies	0.5
+G01
+	agriculture fisheries & forestry	0.0038535645472061657
+	biology	0.009633911368015413
+	biomedical research	0.1579961464354528
+	built environment & design	0.036608863198458574
+	chemistry	0.0905587668593449
+	clinical medicine	0.1791907514450867
+	earth & environmental sciences	0.05394990366088632
+	enabling & strategic technologies	0.13102119460500963
+	engineering	0.10597302504816955
+	information & communication technologies	0.09633911368015415
+	mathematics & statistics	0.03468208092485549
+	physics & astronomy	0.09633911368015415
+	public health & health services	0.0038535645472061657
+G02
+	chemistry	0.12
+	engineering	0.68
+	information & communication technologies	0.08
+	physics & astronomy	0.12
+G03
+	chemistry	0.2222222222222222
+	information & communication technologies	0.4444444444444444
+	mathematics & statistics	0.1111111111111111
+	physics & astronomy	0.2222222222222222
+G04
+	information & communication technologies	1.0
+G05
+	agriculture fisheries & forestry	0.0625
+	chemistry	0.015625
+	clinical medicine	0.03125
+	enabling & strategic technologies	0.3125
+	engineering	0.484375
+	information & communication technologies	0.046875
+	physics & astronomy	0.046875
+G06
+	biology	0.0013440860215053765
+	biomedical research	0.0013440860215053765
+	built environment & design	0.021505376344086023
+	chemistry	0.0013440860215053765
+	clinical medicine	0.09408602150537634
+	communication & textual studies	0.013440860215053764
+	earth & environmental sciences	0.006720430107526882
+	economics & business 	0.006720430107526882
+	enabling & strategic technologies	0.041666666666666664
+	engineering	0.08602150537634409
+	general science & technology	0.004032258064516129
+	informati	0.0013440860215053765
+	information & communication technologies	0.6236559139784946
+	mathematics & statistics	0.04704301075268817
+	physics & astronomy	0.004032258064516129
+	psychology & cognitive sciences	0.04435483870967742
+	public health & health services	0.0013440860215053765
+G07
+	built environment & design	0.058823529411764705
+	engineering	0.29411764705882354
+	information & communication technologies	0.4117647058823529
+	physics & astronomy	0.11764705882352941
+	public health & health services	0.11764705882352941
+G08
+	chemistry	0.07407407407407407
+	clinical medicine	0.07407407407407407
+	communication & textual studies	0.037037037037037035
+	enabling & strategic technologies	0.037037037037037035
+	engineering	0.07407407407407407
+	information & communication technologies	0.37037037037037035
+	physics & astronomy	0.14814814814814814
+	psychology & cognitive sciences	0.037037037037037035
+	public health & health services	0.14814814814814814
+G09
+	chemistry	0.03125
+	clinical medicine	0.03125
+	communication & textual studies	0.03125
+	enabling & strategic technologies	0.03125
+	engineering	0.09375
+	information & communication technologies	0.59375
+	philosophy & theology	0.03125
+	physics & astronomy	0.0625
+	psychology & cognitive sciences	0.09375
+G10
+	communication & textual studies	0.12
+	information & communication technologies	0.52
+	mathematics & statistics	0.12
+	physics & astronomy	0.04
+	psychology & cognitive sciences	0.12
+	public health & health services	0.08
+G11
+	built environment & design	0.22727272727272727
+	communication & textual studies	0.045454545454545456
+	general science & technology	0.045454545454545456
+	information & communication technologies	0.2727272727272727
+	mathematics & statistics	0.2727272727272727
+	physics & astronomy	0.13636363636363635
+G12
+	engineering	1.0
+G16
+	biomedical research	0.05263157894736842
+	clinical medicine	0.5263157894736842
+	engineering	0.05263157894736842
+	information & communication technologies	0.2631578947368421
+	mathematics & statistics	0.05263157894736842
+	public health & health services	0.05263157894736842
+H01
+	biomedical research	0.004830917874396135
+	chemistry	0.06763285024154589
+	clinical medicine	0.00966183574879227
+	earth & environmental sciences	0.00966183574879227
+	enabling & strategic technologies	0.18357487922705315
+	engineering	0.2318840579710145
+	informati	0.01932367149758454
+	information & communication technologies	0.06763285024154589
+	mathematics & statistics	0.004830917874396135
+	physics & astronomy	0.3961352657004831
+	psychology & cognitive sciences	0.004830917874396135
+H02
+	clinical medicine	0.017543859649122806
+	earth & environmental sciences	0.017543859649122806
+	enabling & strategic technologies	0.2631578947368421
+	engineering	0.631578947368421
+	information & communication technologies	0.03508771929824561
+	physics & astronomy	0.03508771929824561
+H03
+	chemistry	0.036585365853658534
+	clinical medicine	0.012195121951219513
+	enabling & strategic technologies	0.04878048780487805
+	engineering	0.24390243902439024
+	information & communication technologies	0.3048780487804878
+	mathematics & statistics	0.024390243902439025
+	physics & astronomy	0.32926829268292684
+H04
+	biomedical research	0.001182033096926714
+	built environment & design	0.002364066193853428
+	chemistry	0.0035460992907801418
+	clinical medicine	0.0035460992907801418
+	communication & textual studies	0.002364066193853428
+	enabling & strategic technologies	0.3073286052009456
+	engineering	0.03664302600472813
+	information & communication technologies	0.5212765957446809
+	mathematics & statistics	0.013002364066193853
+	physics & astronomy	0.09219858156028368
+	psychology & cognitive sciences	0.01182033096926714
+	public health & health services	0.004728132387706856
+H05
+	biology	0.09090909090909091
+	chemistry	0.09090909090909091
+	clinical medicine	0.09090909090909091
+	enabling & strategic technologies	0.09090909090909091
+	engineering	0.09090909090909091
+	information & communication technologies	0.09090909090909091
+	physics & astronomy	0.45454545454545453
+Y02
+	agriculture fisheries & forestry	0.01818181818181818
+	biology	0.08181818181818182
+	biomedical research	0.12727272727272726
+	chemistry	0.09090909090909091
+	clinical medicine	0.10909090909090909
+	earth & environmental sciences	0.02727272727272727
+	enabling & strategic technologies	0.2545454545454545
+	engineering	0.08181818181818182
+	general science & technology	0.00909090909090909
+	information & communication technologies	0.16363636363636364
+	mathematics & statistics	0.02727272727272727
+	physics & astronomy	0.00909090909090909
+Y10
+	biology	0.02857142857142857
+	biomedical research	0.02857142857142857
+	chemistry	0.2
+	earth & environmental sciences	0.02857142857142857
+	enabling & strategic technologies	0.08571428571428572
+	engineering	0.14285714285714285
+	information & communication technologies	0.34285714285714286
+	physics & astronomy	0.14285714285714285
+
+By Scientific Field
+	agriculture fisheries & forestry	2.0854937204747093%
+	biology	3.8368475630833045%
+	biomedical research	8.134577716326765%
+	built environment & design	0.7374121442562508%
+	chemistry	13.492337826938588%
+	clinical medicine	21.200599147367207%
+	communication & textual studies	0.2650074893420901%
+	earth & environmental sciences	2.3274570803087915%
+	economics & business 	0.05761032377001959%
+	enabling & strategic technologies	12.962322848254408%
+	engineering	12.328609286784193%
+	general science & technology	0.9448093098283212%
+	historical studies	0.011522064754003919%
+	informati	0.05761032377001959%
+	information & communication technologies	14.241272035948843%
+	mathematics & statistics	1.1406844106463878%
+	philosophy & theology	0.011522064754003919%
+	physics & astronomy	4.873833390943657%
+	psychology & cognitive sciences	0.6221914967162115%
+	public health & health services	0.5300149786841802%
+
+By CPC
+	A01	4.496225795864785%
+	A23	1.1486708237610765%
+	A61	26.649163111256975%
+	A62	0.06563833278634722%
+	B01	2.822448309812931%
+	B03	0.36101083032490977%
+	B05	0.26255333114538887%
+	B09	0.06563833278634722%
+	B21	0.03281916639317361%
+	B22	0.3938299967180834%
+	B23	0.03281916639317361%
+	B25	0.06563833278634722%
+	B29	0.5579258286839515%
+	B33	0.03281916639317361%
+	B41	0.13127666557269443%
+	B60	0.4594683295044306%
+	B62	0.09845749917952085%
+	B64	0.1969149983590417%
+	B65	0.03281916639317361%
+	B66	0.03281916639317361%
+	B82	0.13127666557269443%
+	C01	1.2471283229405974%
+	C02	0.853298326222514%
+	C05	0.32819166393173616%
+	C07	4.0367574663603545%
+	C08	1.8050541516245486%
+	C09	0.4594683295044306%
+	C10	0.3938299967180834%
+	C11	0.29537249753856254%
+	C12	4.660321627830653%
+	C21	0.8204791598293404%
+	C22	1.6737774860518542%
+	C23	0.09845749917952085%
+	C25	0.09845749917952085%
+	Cli	0.03281916639317361%
+	D01	0.06563833278634722%
+	D06	0.06563833278634722%
+	D21	0.1969149983590417%
+	E05	0.13127666557269443%
+	E21	0.6892024942566459%
+	F01	0.09845749917952085%
+	F02	0.09845749917952085%
+	F03	0.13127666557269443%
+	F05	0.03281916639317361%
+	F16	0.13127666557269443%
+	F23	0.09845749917952085%
+	F24	0.16409583196586808%
+	F27	0.03281916639317361%
+	F42	0.03281916639317361%
+	G01	7.318674105677715%
+	G02	0.4922874958976042%
+	G03	0.03281916639317361%
+	G05	0.7548408270429932%
+	G06	13.062028224483099%
+	G07	0.16409583196586808%
+	G08	0.3938299967180834%
+	G09	0.5579258286839515%
+	G10	0.5251066622907777%
+	G11	0.16409583196586808%
+	G16	0.3938299967180834%
+	H01	2.888086642599278%
+	H02	0.6235641614702987%
+	H03	1.3455858221201182%
+	H04	11.650804069576633%
+	H05	0.09845749917952085%
+	Y02	2.133245815556285%
+	Y10	0.5579258286839515%
+######################### Patent ###############################
+The proposed method is used for classification in open-set scenarios, wherein often it is not possible to first obtain the training data for all possible classes that may arise during the testing stage. During the test phase, test samples belonging to one of the classes used in the training phase are classified based on a ratio between similarity scores, as known correct class and test samples belonging to any other class are to be rejected and classified as unknown.
+belonging built environment & design N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+sample mathematics & statistics N gram 1 0.5654339462086461
+classe clinical medicine N gram 1 1.0
+proposed historical studies N gram 1 1.0
+score visual & performing arts N gram 1 0.7822206351833247
+proposed method "engineering" N gram 2 2.0
+training data "information & communication technologies" N gram 2 2.0
+classified based "clinical medicine" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.6048034934497816, engineering=0.13755458515283842, clinical medicine=0.10698689956331876, mathematics & statistics=0.056768558951965066, psychology & cognitive sciences=0.043668122270742356, built environment & design=0.03275109170305676, economics & business =0.010917030567685589, earth & environmental sciences=0.004366812227074236, chemistry=0.002183406113537118}
+Posterior Probability {clinical medicine=0.19953958721281523, information & communication technologies=0.1995366781419725, engineering=0.1995355830252281, mathematics & statistics=0.12381290546423147, historical studies=0.0997689049378792, built environment & design=0.0997680000004217, visual & performing arts=0.0780383412174518, chemistry=0.0}
+Final result {information & communication technologies=0.6712980662303636, engineering=0.1526770615979526, clinical medicine=0.11875120868368533, mathematics & statistics=0.03909778483896508, built environment & design=0.018175878649033497, chemistry=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies 
+Precision: 1.0
+######################### Patent ###############################
+Analogs of 1-desamino-8-D-arginyl vasopressin having the formula: ##STR00001## wherein, X and Y are amino acids as defined herein, useful as an anti-diuretic or as an inhibitor of metastasis and cancer cell migration.
+migration biology N gram 1 0.5290453447167516
+amino biomedical research N gram 1 0.7034545041558424
+diuretic clinical medicine N gram 1 1.0
+inhibitor clinical medicine N gram 1 0.8739381901034059
+metastasi clinical medicine N gram 1 1.0
+anti visual & performing arts N gram 1 1.0
+metastasi cancer "clinical medicine" N gram 2 2.0
+cancer cell "clinical medicine" N gram 2 1.5384615384615385
+metastasi cancer cell "clinical medicine" N gram 3 3.0
+
+Prior Probability {clinical medicine=0.52038282773611, engineering=0.14442382535632362, chemistry=0.12260625273847264, biomedical research=0.11071161627877006, agriculture fisheries & forestry=0.03476464170038747, biology=0.02214833715645592, physics & astronomy=0.01930462125312508, public health & health services=0.009742519137091161, general science & technology=0.00965231062656254, information & communication technologies=0.006263048016701461}
+Posterior Probability {clinical medicine=0.8082828207797011, visual & performing arts=0.08587751248552444, biomedical research=0.06040949211344753, biology=0.04543017462132683, chemistry=0.0}
+Final result {clinical medicine=0.9820358569087818, biomedical research=0.015614907496957034, biology=0.002349235594261131, chemistry=0.0}
+Reverse citation clinical medicine clinical medicine chemistry 
+Precision: 1.0
+######################### Patent ###############################
+The present invention relates to the control of infestation of pests by inhibiting or reducing the expression of genes of the family of chitin synthase. The invention further provides methods and compositions for controlling pests by feeding them with one or more double-stranded RNA molecules provides by the present invention. The invention further describes a method of obtaining transgenic plants that express double-stranded RNA molecules. The present invention is preferably used for cotton-plants.
+transgenic enabling & strategic technologies N gram 1 0.9395956599048249
+plant biology N gram 1 0.5634682559835904
+infestation agriculture, fisheries & forestry N gram 1 0.8058257865745496
+pest agriculture, fisheries & forestry N gram 1 0.757787582303114
+cotton agriculture, fisheries & forestry N gram 1 0.5565115627582266
+controlling economics & business  N gram 1 0.5637285871586131
+chitin biomedical research N gram 1 1.0
+feeding biomedical research N gram 1 1.0
+rna biomedical research N gram 1 0.6412748203587805
+synthase clinical medicine N gram 1 0.7606194739352792
+provide method "mathematics & statistics" N gram 2 2.0
+double stranded "biomedical research" N gram 2 1.25
+stranded rna "biomedical research" N gram 2 2.0
+rna molecule "biomedical research" N gram 2 1.7777777777777777
+transgenic plant "biomedical research" N gram 2 1.0
+transgenic plant "engineering" N gram 2 1.0
+double stranded rna "biomedical research" N gram 3 3.0
+stranded rna molecule "biomedical research" N gram 3 3.0
+
+Prior Probability {biomedical research=0.24003374375290887, biology=0.17322645845732504, engineering=0.16663373874000062, general science & technology=0.1584514782427496, clinical medicine=0.11487321847220645, agriculture fisheries & forestry=0.06675584564895126, chemistry=0.050630510820264145, information & communication technologies=0.018506787330316743, earth & environmental sciences=0.004962292609351433, mathematics & statistics=0.003076923076923077, physics & astronomy=0.0028490028490028487}
+Posterior Probability {biomedical research=0.6485875619914563, agriculture fisheries & forestry=0.09374980657629677, mathematics & statistics=0.08843075534396452, engineering=0.04421616549358684, enabling & strategic technologies=0.04154307918485952, clinical medicine=0.03363088125914408, economics & business =0.024928107164182645, biology=0.024913642986509284, chemistry=0.0}
+Final result {biomedical research=0.8758027260199448, engineering=0.0414485549129038, agriculture fisheries & forestry=0.03520667896482776, biology=0.024278219923723726, clinical medicine=0.021733136851880743, mathematics & statistics=0.0015306833267191126, enabling & strategic technologies=0.0}
+Reverse citation biomedical research biology biology biology 
+Precision: 1.0
+######################### Patent ###############################
+A method for communication, includes routing unicast data packets among nodes in a network using respective Layer-3 addresses that are uniquely assigned to each of the nodes. Respective Layer-2 unicast addresses are assigned to the nodes in accordance with an algorithmic mapping of the respective Layer-3 addresses. The unicast data packets are forwarded within subnets of the network using the assigned Layer-2 addresses.
+packet information & communication technologies N gram 1 0.6287906828892954
+node information & communication technologies N gram 1 0.5629544040610629
+routing mathematics & statistics N gram 1 0.6172348782928015
+data mathematics & statistics N gram 1 0.6754631851131768
+communication communication & textual studies N gram 1 0.5769578841464347
+communication include "communication & textual studies" N gram 2 2.0
+data packet "information & communication technologies" N gram 2 2.0
+
+Prior Probability {information & communication technologies=0.4760869565217391, engineering=0.408695652173913, physics & astronomy=0.09130434782608696, psychology & cognitive sciences=0.010869565217391304, public health & health services=0.008695652173913044, chemistry=0.004347826086956522}
+Posterior Probability {information & communication technologies=0.45198902190309237, communication & textual studies=0.3649367408028018, mathematics & statistics=0.18307423729410585, chemistry=0.0}
+Final result {information & communication technologies=1.0, mathematics & statistics=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies 
+Precision: 1.0
+######################### Patent ###############################
+A computer-implemented process for groups includes forming a group using a series of invitation, acceptance and confirmation handshake messages. A location center for the group is calculated as an average location for all members of the group as calculated by the computer from data included in at least one message of the messages. The computer calculates a perimeter for the group from the data. The computer calculates a time decay parameter for the group from the data. The computer calculates a group profile for the group based on at least the location center, the perimeter and the time decay parameter. The computer adds a new member to the group, by any member triggering an invitation process with the new member. The computer recalculates the group profile on acceptance by the new member and transmits the recalculated group profile to all members including a confirmation message to the new member.
+serie biomedical research N gram 1 1.0
+calculate biomedical research N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+parameter mathematics & statistics N gram 1 0.662098202981484
+handshake visual & performing arts N gram 1 1.0
+include forming "chemistry" N gram 2 1.0
+include forming "enabling & strategic technologies" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.47608695652173916, engineering=0.40869565217391296, physics & astronomy=0.09130434782608697, psychology & cognitive sciences=0.010869565217391304, public health & health services=0.008695652173913045, chemistry=0.004347826086956523}
+Posterior Probability {biomedical research=0.31557263680963565, mathematics & statistics=0.21105199941300862, enabling & strategic technologies=0.15779334451274643, chemistry=0.1577913611900668, visual & performing arts=0.1577906580745424, earth & environmental sciences=0.0}
+Final result {chemistry=1.0, mathematics & statistics=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.8
+######################### Patent ###############################
+A method of increasing the production of extracellular polymeric substances (EPS) in an Acidithiobacillus ferrooxidans culture is disclosed. The method includes inhibiting an enzyme, such as citrate synthase, aconitase, or isocitrate dehydrogenase, in the tricarboxylic acid (TCA) cycle leading to alpha-ketoglutarate.
+polymeric chemistry N gram 1 1.0
+leading chemistry N gram 1 1.0
+alpha chemistry N gram 1 0.7023922464132746
+extracellular biomedical research N gram 1 0.6224279186178397
+citrate biomedical research N gram 1 1.0
+synthase clinical medicine N gram 1 0.7606194739352792
+dehydrogenase clinical medicine N gram 1 1.0
+tricarboxylic clinical medicine N gram 1 1.0
+tricarboxylic acid "clinical medicine" N gram 2 2.0
+
+Prior Probability {biomedical research=0.30875576036866365, biology=0.23041474654377883, engineering=0.18433179723502308, clinical medicine=0.1751152073732719, general science & technology=0.04608294930875577, agriculture fisheries & forestry=0.03225806451612904, chemistry=0.023041474654377885}
+Posterior Probability {clinical medicine=0.5239801761729644, chemistry=0.297446717318026, biomedical research=0.17857310650900948, enabling & strategic technologies=0.0}
+Final result {clinical medicine=0.596808418192955, biomedical research=0.3586140855853629, chemistry=0.04457749622168202, enabling & strategic technologies=0.0}
+Reverse citation psychology & cognitive sciences engineering clinical medicine biomedical research 
+Precision: 0.8333333333333334
+######################### Patent ###############################
+The present invention relates to a natural pesticide formulation containing: A) botanical products having an arthropod repellent effect (preferably mixture of garlic and chili oils) and B) an entomopathogenic fungus strain or a blend of entomopathogenic fungi strains specific for said arthropod control (preferably blend of Beauveria bassiana strains). The formulation is useful in the control of coffee berry borer (Hypothenemus hampei) in coffee plants and of other important insects in corn crop fields and green-house crop fields (flowers and vegetables).
+mixture chemistry N gram 1 0.6807471025208582
+botanical biology N gram 1 0.7841401746507793
+plant biology N gram 1 0.5634682559835904
+pesticide agriculture, fisheries & forestry N gram 1 0.8142825792949792
+corn agriculture, fisheries & forestry N gram 1 0.5146917811373289
+crop agriculture, fisheries & forestry N gram 1 0.7076721042709933
+vegetable agriculture, fisheries & forestry N gram 1 0.7699189390211056
+crop field "agriculture, fisheries & forestry" N gram 2 1.3333333333333333
+
+Prior Probability {biology=0.329313725490196, engineering=0.13308823529411765, general science & technology=0.13105882352941173, biomedical research=0.12108823529411764, chemistry=0.11776470588235295, agriculture fisheries & forestry=0.061872549019607835, information & communication technologies=0.06055882352941179, earth & environmental sciences=0.025284313725490205, clinical medicine=0.01797058823529412, mathematics & statistics=0.002}
+Posterior Probability {agriculture fisheries & forestry=0.6711631446651848, biology=0.2184777464275674, chemistry=0.11035910890724786, enabling & strategic technologies=0.0}
+Final result {biology=0.5688884366254532, agriculture fisheries & forestry=0.3283493609450781, chemistry=0.10276220242946858, enabling & strategic technologies=0.0}
+Reverse citation biomedical research biomedical research biology biology biology biomedical research 
+Precision: 0.8571428571428571
+######################### Patent ###############################
+"The invention provides an isolated nucleic acid having a sequence encoding a spermidine/spermine acetyltransferase (""SSAT""), wherein translation of an mRNA comprising the encoded SSAT has increased basal translation and increased stimulated translation, compared to a wild-type mRNA encoding SSAT. Methods of use for the nucleic acid are also provided. Methods and compositions are also provided for reducing ischemia-reperfusion injury in organs or tissue for transplantation."
+mrna chemistry N gram 1 0.5870933368852186
+basal earth & environmental sciences N gram 1 0.5167861924817636
+nucleic biomedical research N gram 1 0.5757407436040105
+ischemia clinical medicine N gram 1 1.0
+transplantation clinical medicine N gram 1 0.6724164483155753
+encoding communication & textual studies N gram 1 0.6248882230245549
+encoded social sciences N gram 1 1.0
+nucleic acid "biomedical research" N gram 2 1.1162790697674418
+wild type "biomedical research" N gram 2 1.0
+sequence encoding "information & communication technologies" N gram 2 2.0
+wild type "clinical medicine" N gram 2 1.0
+
+Prior Probability {biomedical research=0.2269199806292872, biology=0.17348269208562553, engineering=0.16905110438277093, clinical medicine=0.14646895324274503, chemistry=0.07781696265771203, general science & technology=0.04808884430799395, information & communication technologies=0.045903323327159316, physics & astronomy=0.03908794788273615, agriculture fisheries & forestry=0.02783572362082026, earth & environmental sciences=0.02471471759170552, mathematics & statistics=0.01737242128121607, public health & health services=0.002171552660152009, built environment & design=0.0010857763300760044}
+Posterior Probability {biomedical research=0.26671552142828003, clinical medicine=0.264773960761254, information & communication technologies=0.198148131330431, social sciences=0.09907402589963196, communication & textual studies=0.06190966165640548, chemistry=0.05817265096655055, earth & environmental sciences=0.05120604795744698, enabling & strategic technologies=0.0}
+Final result {biomedical research=0.5300103351145201, clinical medicine=0.3396128860060593, information & communication technologies=0.079652134859209, chemistry=0.039642080699043014, earth & environmental sciences=0.01108256332116843, enabling & strategic technologies=0.0}
+Reverse citation biomedical research clinical medicine clinical medicine clinical medicine biomedical research clinical medicine biomedical research biomedical research clinical medicine biomedical research biomedical research 
+Precision: 0.875
+######################### Patent ###############################
+Techniques for determining beam-sweeping patterns for synchronization signals transmitted in a region by several access nodes in a network, where each access node is connected to a corresponding array of antenna elements. An example method includes modeling a total power function for the power transmitted in the synchronization signals, as a factor graph having a plurality of check nodes and variable nodes, each check node corresponding to a virtual wireless device in the region and each variable node corresponding to an available beam for an access node. The virtual wireless devices are emulated so as to implement quality-of-service constraints on synchronization signals received by the virtual wireless devices. An iterative message-passing algorithm, such as a min-sum algorithm, is applied to the modeled total power function, to determine a sequence of power levels, for each access node, for sweeping synchronization signal beams, so as to minimize the total power function.
+min agriculture, fisheries & forestry N gram 1 0.6784497383045799
+minimize engineering N gram 1 1.0
+modeled physics & astronomy N gram 1 0.6493892115750267
+implement economics & business  N gram 1 0.7096375845464318
+node information & communication technologies N gram 1 0.5629544040610629
+passing information & communication technologies N gram 1 0.5149216817807091
+algorithm information & communication technologies N gram 1 0.5429043710126251
+variable mathematics & statistics N gram 1 0.518292485379227
+applied mathematics & statistics N gram 1 1.0
+transmitted clinical medicine N gram 1 1.0
+synchronization communication & textual studies N gram 1 0.6248882230245549
+connected communication & textual studies N gram 1 1.0
+plurality communication & textual studies N gram 1 0.702209051562583
+wireles device "chemistry" N gram 2 1.0
+node network "information & communication technologies" N gram 2 2.0
+message passing "information & communication technologies" N gram 2 2.0
+signal transmitted "clinical medicine" N gram 2 2.0
+wireles device "general science & technology" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.4216483540345697, engineering=0.3946625553721879, physics & astronomy=0.0741010162425085, chemistry=0.026198645009988718, clinical medicine=0.01864196994701643, biomedical research=0.017632241813602022, biology=0.01259445843828716, psychology & cognitive sciences=0.008821549552679586, earth & environmental sciences=0.007556675062972295, public health & health services=0.007057239642143668, agriculture fisheries & forestry=0.005037783375314864, built environment & design=0.003528619821071834, general science & technology=0.002518891687657432}
+Posterior Probability {information & communication technologies=0.32111994788156356, clinical medicine=0.17139276265297404, communication & textual studies=0.13294865389649613, mathematics & statistics=0.08674251915922827, engineering=0.05713171992627276, general science & technology=0.057130929212797325, chemistry=0.05712793666331161, economics & business =0.040544945008417495, agriculture fisheries & forestry=0.038759106761471235, physics & astronomy=0.03710147883746765, enabling & strategic technologies=0.0}
+Final result {information & communication technologies=0.8137826069164131, engineering=0.13551704759171596, clinical medicine=0.01920326132790032, physics & astronomy=0.016523654062914665, chemistry=0.008995350253688831, mathematics & statistics=0.003939612330244191, agriculture fisheries & forestry=0.0011735563780160918, general science & technology=8.649111391069528E-4, enabling & strategic technologies=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.8888888888888888
+######################### Patent ###############################
+"A transceiver for fiber optic communications. The transceiver can include a transmitter module having a transmitter host interface configured to receive an input host signal; a transmitter framer configured to frame the input host signal and to generate a framed host signal; and a transmitter coder configured to encode the framed host signal to generate an encoded host signal for transmission over a communication channel. The transceiver can also include a receiver module having a bulk chromatic dispersion, fiber length estimation, and coarse carrier recovery circuit configured to equalize a digital input ingress signal to generate an equalized ingress signal; a receiver framer configured to frame the equalized ingress signal to generate a framed ingress signal; and a receiver host interface configured to output the framed ingress signal. The receiver host interface is compatible with a framing protocol of the receiver framer."
+transceiver enabling & strategic technologies N gram 1 0.5032123302533201
+coarse earth & environmental sciences N gram 1 1.0
+coder public health & health services N gram 1 0.5812196941439761
+circuit engineering N gram 1 0.5428058071122389
+optic physics & astronomy N gram 1 0.7319599983533529
+dispersion physics & astronomy N gram 1 0.6232899117956001
+transmitter information & communication technologies N gram 1 0.6011793381488657
+host biomedical research N gram 1 0.5214887249199197
+estimation mathematics & statistics N gram 1 0.6044559403594089
+generate clinical medicine N gram 1 1.0
+communication communication & textual studies N gram 1 0.5769578841464347
+encode communication & textual studies N gram 1 0.7850922738699425
+receiver communication & textual studies N gram 1 0.5469314543734617
+encoded social sciences N gram 1 1.0
+chromatic visual & performing arts N gram 1 0.6989096573208723
+optic communication "physics & astronomy" N gram 2 1.0
+fiber optic "engineering" N gram 2 1.0
+optic communication "engineering" N gram 2 1.0
+input signal "engineering" N gram 2 1.6666666666666667
+interface configured "information & communication technologies" N gram 2 2.0
+length estimation "psychology & cognitive sciences" N gram 2 2.0
+fiber optic communication "engineering" N gram 3 3.0
+
+Prior Probability {information & communication technologies=0.4760869565217391, engineering=0.408695652173913, physics & astronomy=0.09130434782608696, psychology & cognitive sciences=0.010869565217391304, public health & health services=0.008695652173913044, chemistry=0.004347826086956522}
+Posterior Probability {engineering=0.3279315609893362, information & communication technologies=0.11832232237458855, physics & astronomy=0.10713673105860645, psychology & cognitive sciences=0.09097058763033601, communication & textual studies=0.08683785251526994, clinical medicine=0.0454881040720764, social sciences=0.045485944411105844, earth & environmental sciences=0.04548541659853345, visual & performing arts=0.03179315691213984, mathematics & statistics=0.02749554862939585, public health & health services=0.026437762229810778, biomedical research=0.023722113636467156, enabling & strategic technologies=0.022892898942333473, chemistry=0.0}
+Final result {engineering=0.6649528508431256, information & communication technologies=0.27948634021176844, physics & astronomy=0.04853303696423631, psychology & cognitive sciences=0.004905923718420465, public health & health services=0.0011406028973869153, clinical medicine=9.812453650624128E-4, enabling & strategic technologies=0.0}
+Reverse citation engineering information & communication technologies information & communication technologies engineering physics & astronomy information & communication technologies 
+Precision: 0.9
+######################### Patent ###############################
+Malaria in humans is caused by infection with Plasmodium species parasites including P. vivax. The biology and immunobilogy of P. vivax is distinct from that of P. falciparum. Provided are unique synthetic polypeptides and DNA molecules which encode them. Each of these molecules correspond to regions of the circumsporozoite protein of P. vivax. Each molecule comprises sequences corresponding to several repeats of the central region of the Pv 210 variant fused to sequences corresponding to several repeats of the central region of the Pv 247 variant. Each molecule additionally comprises sequences corresponding to either the amino terminus, the carboxy terminus, or both the amino and carboxy termini of the PvCSP. Also provided are vaccines comprising these unique sequences and methods of using these vaccines and sequences to prevent and treat Pv malaria.
+repeat chemistry N gram 1 0.8277966895311043
+plasmodium biomedical research N gram 1 0.8385233160621761
+parasite biomedical research N gram 1 0.7333148972925594
+vivax biomedical research N gram 1 1.0
+falciparum biomedical research N gram 1 1.0
+amino biomedical research N gram 1 0.7034545041558424
+fused clinical medicine N gram 1 1.0
+additionally clinical medicine N gram 1 1.0
+encode communication & textual studies N gram 1 0.7850922738699425
+dna molecule "biomedical research" N gram 2 2.0
+
+Prior Probability {clinical medicine=0.4708272120415474, engineering=0.16276504465944833, chemistry=0.10929405397046314, biomedical research=0.10619370801874674, information & communication technologies=0.04331660942375469, agriculture fisheries & forestry=0.03629458358171852, biology=0.031046069527897707, physics & astronomy=0.013780701032367811, general science & technology=0.009578522559194658, public health & health services=0.008838979055828675, mathematics & statistics=0.008064516129032258}
+Posterior Probability {biomedical research=0.6346305409003343, clinical medicine=0.2022596087264281, chemistry=0.08371186580380319, communication & textual studies=0.07939798456943455, enabling & strategic technologies=0.0}
+Final result {clinical medicine=0.5543927844014209, biomedical research=0.3923436288949998, chemistry=0.05326358670357924, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine biomedical research biomedical research clinical medicine clinical medicine 
+Precision: 0.9090909090909091
+######################### Patent ###############################
+Methods for introgressing an allele of interest of a locus associated with a yield trait into Zea mays germplasm are provided. In some embodiments, the methods include providing a Zea mays plant that contains an allele of interest of a locus associated with a yield trait, wherein the locus associated with the yield trait is identifiable by PCR amplification of a Zea mays nucleic acid with a pair of oligonucleotides primers as disclosed herein, and introgressing the allele of interest into Zea mays germplasm that lacks the allele. Also provided are methods for identifying Zea mays plants that contain at least one allele associated with improved yield, improved maize plants, elite Zea mays plants, biomass produced from improved Zea mays plants, isolated and purified genetic markers, and compositions that include an amplification primer pair capable of amplifying a Zea mays nucleic acid to generate a Zea mays marker amplicon.
+zea biology N gram 1 0.6663637578511292
+plant biology N gram 1 0.5634682559835904
+improved biology N gram 1 1.0
+yield agriculture, fisheries & forestry N gram 1 0.6542373845185275
+maize agriculture, fisheries & forestry N gram 1 0.6774928863285703
+allele biomedical research N gram 1 0.8624882323614335
+pcr biomedical research N gram 1 0.7736588863703333
+nucleic biomedical research N gram 1 0.5757407436040105
+oligonucleotide biomedical research N gram 1 0.5858058942751769
+generate clinical medicine N gram 1 1.0
+embodiment philosophy & theology N gram 1 0.7503314550878356
+include providing "physics & astronomy" N gram 2 2.0
+nucleic acid "biomedical research" N gram 2 1.1162790697674418
+zea may "biology" N gram 2 2.0
+acid pair "clinical medicine" N gram 2 2.0
+nucleic acid pair "clinical medicine" N gram 3 3.0
+
+Prior Probability {biology=0.28677600072286985, biomedical research=0.21565238998825334, engineering=0.15344040842143308, clinical medicine=0.09491054486310653, general science & technology=0.09166892563477004, chemistry=0.07034426673895365, agriculture fisheries & forestry=0.047991777356103736, information & communication technologies=0.02696078431372549, earth & environmental sciences=0.012254901960784314}
+Posterior Probability {clinical medicine=0.32919179940242255, biology=0.2320820765892948, biomedical research=0.2147516691318914, physics & astronomy=0.10973259269984173, agriculture fisheries & forestry=0.07307002609644236, philosophy & theology=0.04117183608010696, chemistry=0.0}
+Final result {biology=0.45086407926881605, biomedical research=0.31372711373758744, clinical medicine=0.21165313462362295, agriculture fisheries & forestry=0.02375567236997358, chemistry=0.0}
+Reverse citation biomedical research biomedical research biology biology 
+Precision: 0.9166666666666666
+######################### Patent ###############################
+A method of treating chronic post-myocardial infarction including helical needle transendocardial delivery of autologous bone marrow (ABM) mononuclear cells around regions of hypo or akinesia in chronic post-myocardial infarction (MI) patients. The treatment is safe and improves ejection fraction (EF).
+ejection physics & astronomy N gram 1 0.5370408584399505
+abm information & communication technologies N gram 1 1.0
+helical biomedical research N gram 1 0.775880047463234
+myocardial clinical medicine N gram 1 1.0
+marrow clinical medicine N gram 1 0.6683904380633313
+myocardial infarction "clinical medicine" N gram 2 1.0
+bone marrow "clinical medicine" N gram 2 2.0
+ejection fraction "clinical medicine" N gram 2 2.0
+myocardial infarction "enabling & strategic technologies" N gram 2 1.0
+
+Prior Probability {clinical medicine=0.6941544885177453, biomedical research=0.10125260960334026, chemistry=0.05427974947807933, agriculture fisheries & forestry=0.04906054279749478, engineering=0.04070981210855949, biology=0.0208768267223382, public health & health services=0.01461377870563674, physics & astronomy=0.0104384133611691, information & communication technologies=0.009394572025052192, general science & technology=0.00521920668058455}
+Posterior Probability {clinical medicine=0.6680848392471956, enabling & strategic technologies=0.10018829557483871, information & communication technologies=0.10018325505866454, biomedical research=0.07773270225768235, physics & astronomy=0.05381090786161873, chemistry=0.0}
+Final result {clinical medicine=0.9801881815837642, biomedical research=0.016635340698355556, information & communication technologies=0.0019892705248473253, physics & astronomy=0.001187207193032975, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine 
+Precision: 0.9230769230769231
+######################### Patent ###############################
+An optical communication system provides coherent optical transmission for metro applications. Relative to conventional solutions, the optical communication system can be implemented with reduced cost and can operate with reduced power consumption, while maintaining high data rate performance (e.g., 100 G). Furthermore, a programmable transceiver enables compatibility with a range of different types of optical networks having varying performance and power tradeoffs. In one embodiment, the optical communication system uses 100 Gb/s dual-polarization 16-point quadrature amplitude modulation (DP-16QAM) with non-linear pre-compensation of Indium Phosphide (InP) optics for low power consumption.
+transceiver enabling & strategic technologies N gram 1 0.5032123302533201
+phosphide enabling & strategic technologies N gram 1 1.0
+programmable engineering N gram 1 0.6191063895055264
+polarization physics & astronomy N gram 1 0.872744478793134
+amplitude physics & astronomy N gram 1 0.6336027009271392
+optic physics & astronomy N gram 1 0.7319599983533529
+quadrature information & communication technologies N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+communication communication & textual studies N gram 1 0.5769578841464347
+metro communication & textual studies N gram 1 0.5459058782968453
+embodiment philosophy & theology N gram 1 0.7503314550878356
+dual polarization "chemistry" N gram 2 2.0
+optical communication "engineering" N gram 2 1.0
+system provide "engineering" N gram 2 1.0
+power consumption "engineering" N gram 2 1.0
+indium phosphide "engineering" N gram 2 2.0
+power consumption "information & communication technologies" N gram 2 1.0
+quadrature amplitude "information & communication technologies" N gram 2 2.0
+amplitude modulation "information & communication technologies" N gram 2 1.3333333333333333
+system provide "clinical medicine" N gram 2 1.0
+reduced cost "clinical medicine" N gram 2 2.0
+optical communication system "physics & astronomy" N gram 3 1.5
+optical communication system "engineering" N gram 3 1.5
+quadrature amplitude modulation "information & communication technologies" N gram 3 3.0
+
+Prior Probability {information & communication technologies=0.4760869565217392, engineering=0.40869565217391307, physics & astronomy=0.09130434782608698, psychology & cognitive sciences=0.010869565217391308, public health & health services=0.008695652173913045, chemistry=0.004347826086956523}
+Posterior Probability {information & communication technologies=0.2950606789682842, engineering=0.2520697449113865, physics & astronomy=0.13236362068221585, clinical medicine=0.10622147880019142, chemistry=0.07081556175396268, enabling & strategic technologies=0.053224369471867795, communication & textual studies=0.03975975404948638, philosophy & theology=0.026568805544565408, mathematics & statistics=0.023915985818039744, earth & environmental sciences=0.0}
+Final result {information & communication technologies=0.5479806598909215, engineering=0.40187255673244204, physics & astronomy=0.04714413888484768, clinical medicine=0.001801574050439819, chemistry=0.0012010704413487018, enabling & strategic technologies=0.0}
+Reverse citation engineering physics & astronomy engineering 
+Precision: 0.9285714285714286
+######################### Patent ###############################
+Embodiments of the invention relate to the conversion and execution of functional tests. In one embodiment, a current test step of a manual functional test is executed. The test includes a set of test steps each including at least one action and one target of the action. The test is associated with an application that includes a plurality of objects to be tested. At least two of the objects are determined to be associated with the target of the test step. A user is prompted to provide a selection of one of the at least objects for association with the target of the test step. A new test step is generated. The new test step associates the object selected by the user with the target of the current test step. The new test step is designated for automatic execution in place of the current test step for subsequent executions thereof.
+plurality communication & textual studies N gram 1 0.702209051562583
+embodiment philosophy & theology N gram 1 0.7503314550878356
+
+Prior Probability {information & communication technologies=0.6048034934497816, engineering=0.13755458515283842, clinical medicine=0.10698689956331876, mathematics & statistics=0.056768558951965066, psychology & cognitive sciences=0.043668122270742356, built environment & design=0.03275109170305676, economics & business =0.010917030567685589, earth & environmental sciences=0.004366812227074236, chemistry=0.002183406113537118}
+Posterior Probability {philosophy & theology=0.5165521388073764, communication & textual studies=0.4834478611926235, chemistry=0.0}
+Final result {communication & textual studies=1.0, chemistry=0.0}
+Reverse citation communication & textual studies information & communication technologies information & communication technologies information & communication technologies information & communication technologies psychology & cognitive sciences 
+Precision: 0.9333333333333333
+######################### Patent ###############################
+Cerclage pessary containing progesterone homogeneously distributed in the pessary body providing a prolonged, sustained and continuous release for a period of at least 6 months, wherein the pessary consists of dimethylsiloxane elastomer with RTV (Room Temperature Vulcanization) mechanism, the progesterone amount is from 20% to 30% w/w, relative to pessary weight and the ratios of the polymers forming the matrix is from 6:1 to 14 1. The cerclage pessary is useful for the prevention of preterm birth. Progesterone diffuses through the polymer continuously, without altering the shape and integrity of the pessary, since the elastomer forming the polymeric matrix used herein is not biodegradable. This guarantees that the form of pessary remains intact until the end of treatment.
+elastomer chemistry N gram 1 1.0
+polymer chemistry N gram 1 0.9175560310545723
+polymeric chemistry N gram 1 1.0
+prolonged agriculture, fisheries & forestry N gram 1 0.6544204578775757
+biodegradable built environment & design N gram 1 0.5951262532146551
+diffuse physics & astronomy N gram 1 0.751494086604632
+preterm biomedical research N gram 1 0.5357400004965612
+progesterone clinical medicine N gram 1 1.0
+remain historical studies N gram 1 0.7080195787584136
+preterm birth "biomedical research" N gram 2 1.0
+weight ratio "economics & business " N gram 2 1.0
+weight ratio "engineering" N gram 2 1.0
+remain intact "information & communication technologies" N gram 2 2.0
+relative weight "psychology & cognitive sciences" N gram 2 2.0
+preterm birth "clinical medicine" N gram 2 1.0
+
+Prior Probability {clinical medicine=0.6941544885177453, biomedical research=0.10125260960334029, chemistry=0.05427974947807933, agriculture fisheries & forestry=0.049060542797494784, engineering=0.0407098121085595, biology=0.020876826722338204, public health & health services=0.014613778705636743, physics & astronomy=0.010438413361169102, information & communication technologies=0.009394572025052192, general science & technology=0.005219206680584551}
+Posterior Probability {chemistry=0.19242145183820153, clinical medicine=0.1319061193866321, information & communication technologies=0.13190274944866934, psychology & cognitive sciences=0.1319009650472344, biomedical research=0.10128994671992768, engineering=0.06595643414846736, economics & business =0.06595590281051344, physics & astronomy=0.049562403035309316, historical studies=0.04669420996065635, agriculture fisheries & forestry=0.04315989708224955, built environment & design=0.03924992052213907, enabling & strategic technologies=0.0}
+Final result {clinical medicine=0.7705867845218364, chemistry=0.08790059165313245, biomedical research=0.08631237053370522, engineering=0.022597309952697337, agriculture fisheries & forestry=0.017820226752054608, information & communication technologies=0.010428727636261143, physics & astronomy=0.004353988950312781, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine 
+Precision: 0.9375
+######################### Patent ###############################
+Adjuvant for vaccines that comprises a non-lipidated bacterial outer-membrane polypeptide (Omp), in which the bacteria may be of those of Brucella genus. The adjuvant may be a modified polypeptide or may be, for example, the Omp19S polypeptide or the Omp16S polypeptide, parts or mixtures of the two. In a preferred embodiment, the adjuvant is the non-lipidated polypeptide included in SEQ ID No: 1, or parts thereof. In a further preferred embodiment, the adjuvant is the non-lipidated polypeptide included in SEQ ID No: 2 or parts thereof.
+mixture chemistry N gram 1 0.6807471025208582
+genu biology N gram 1 1.0
+adjuvant public health & health services N gram 1 0.706086387434555
+modified engineering N gram 1 1.0
+bacterial biomedical research N gram 1 0.6165217159256849
+embodiment philosophy & theology N gram 1 0.7503314550878356
+bacterial outer "biomedical research" N gram 2 2.0
+outer membrane "biomedical research" N gram 2 2.0
+preferred embodiment "economics & business " N gram 2 1.3333333333333333
+bacterial outer membrane "biomedical research" N gram 3 3.0
+
+Prior Probability {clinical medicine=0.6072686581269277, biomedical research=0.10598211294105515, engineering=0.09256681873244156, chemistry=0.08844300110827598, agriculture fisheries & forestry=0.04191259224894112, biology=0.021512581939397063, physics & astronomy=0.014871517307147092, public health & health services=0.012178148921363952, information & communication technologies=0.007828810020876827, general science & technology=0.007435758653573546}
+Posterior Probability {biomedical research=0.5819845723735753, economics & business =0.10188366252837831, biology=0.07641258929905921, engineering=0.07641125664797556, philosophy & theology=0.05733666062869503, public health & health services=0.053953299660834494, chemistry=0.05201795886148209, enabling & strategic technologies=0.0}
+Final result {biomedical research=0.8152834989201042, engineering=0.09349261065864664, chemistry=0.06081089345866259, biology=0.021728115458526636, public health & health services=0.008684881504059829, enabling & strategic technologies=0.0}
+Reverse citation engineering biomedical research biomedical research 
+Precision: 0.9411764705882353
+######################### Patent ###############################
+A method for the electrochemical plating or marking of metals includes providing a metal surface, providing an electroplating solution at the metal surface, and electroplating the metal surface with the electroplating solution. A top layer of the metal surface comprises an oxide scale. The method can also include masking a portion of the metal surface with a masking material. The electroplating solution can be provided at the metal surface by an electroplating brush, the oxide scale of the metal surface can be comprised primarily of magnetite and hematite, and the material comprising the metal surface can be steel.
+electrochemical chemistry N gram 1 0.6938270861756399
+brush chemistry N gram 1 1.0
+magnetite earth & environmental sciences N gram 1 0.6635645079041306
+comprised psychology & cognitive sciences N gram 1 1.0
+electroplating engineering N gram 1 1.0
+marking visual & performing arts N gram 1 1.0
+include providing "physics & astronomy" N gram 2 2.0
+
+Prior Probability {engineering=0.6666666666666667, information & communication technologies=0.33333333333333337}
+Posterior Probability {physics & astronomy=0.2718249303493509, chemistry=0.2302289035140108, psychology & cognitive sciences=0.1359234744193844, visual & performing arts=0.13592064572630824, engineering=0.135912231203913, earth & environmental sciences=0.09018981478703261, enabling & strategic technologies=0.0}
+Final result {physics & astronomy=0.6666670492182784, engineering=0.33333295078172165, chemistry=0.0}
+Reverse citation physics & astronomy engineering engineering physics & astronomy physics & astronomy engineering engineering engineering engineering engineering engineering engineering 
+Precision: 0.9444444444444444
+######################### Patent ###############################
+Described is a composition, which is a natural and organic pesticide, specifically for mitigating, controlling and treating fungicidal, virucidal and bactericidal pathogenic microorganisms in agricultural products such as root crops, fruits and vegetables. Examples of such disease-causing microorganisms are Mycosphaerella fijensis causing black Sigatoka disease in Cavendish (banana), Ralstonia solanacearum causing Moko disease in Cavendish (banana), Lasiodiplodia theobromae causing soft rot or fruit rot in crops and fruits, Fusarium oxysporum causing Panama wilt in fruits and crops, and many others. The composition is a fermented product of tropical plants, carbon source, protein (nitrogen) source, and a carrier agent. The fermented product may help strengthen the plant's immune system to fight pathogenic diseases. Since all the major constituents of the composition are generally regarded as safe, this natural pesticide is found to be non-toxic and safe to humans and animals, and environmentally benign.
+organic chemistry N gram 1 0.65140113965205
+panama enabling & strategic technologies N gram 1 0.8303781880453711
+banana biology N gram 1 0.6778816589096903
+plant biology N gram 1 0.5634682559835904
+pesticide agriculture, fisheries & forestry N gram 1 0.8142825792949792
+agricultural agriculture, fisheries & forestry N gram 1 0.6848767472408114
+crop agriculture, fisheries & forestry N gram 1 0.7076721042709933
+fruit agriculture, fisheries & forestry N gram 1 0.5130583337164369
+vegetable agriculture, fisheries & forestry N gram 1 0.7699189390211056
+fermented agriculture, fisheries & forestry N gram 1 1.0
+controlling economics & business  N gram 1 0.5637285871586131
+bactericidal biomedical research N gram 1 0.775880047463234
+pathogenic biomedical research N gram 1 0.9121704454182931
+fusarium biomedical research N gram 1 1.0
+benign biomedical research N gram 1 0.5398183477420625
+immune clinical medicine N gram 1 0.5882936655822746
+agricultural product "agriculture, fisheries & forestry" N gram 2 2.0
+pathogenic microorganism "biomedical research" N gram 2 2.0
+major constituent "biology" N gram 2 2.0
+disease causing "clinical medicine" N gram 2 1.6
+carbon source "clinical medicine" N gram 2 1.3333333333333333
+immune system "clinical medicine" N gram 2 1.3333333333333333
+
+Prior Probability {biology=0.39106145251396657, general science & technology=0.15642458100558662, engineering=0.13966480446927373, chemistry=0.13407821229050282, agriculture fisheries & forestry=0.07262569832402235, information & communication technologies=0.061452513966480465, earth & environmental sciences=0.02793296089385475, clinical medicine=0.016759776536312852}
+Posterior Probability {agriculture fisheries & forestry=0.29688989839274565, biomedical research=0.23915557456540393, clinical medicine=0.22209704041858677, biology=0.14827835762582076, enabling & strategic technologies=0.03798794785745835, chemistry=0.02980019108625459, economics & business =0.025790990053729937, earth & environmental sciences=0.0}
+Final result {biology=0.480544200125995, biomedical research=0.2768076255972197, agriculture fisheries & forestry=0.1786883778618293, chemistry=0.03311218375671489, clinical medicine=0.03084761265824099, enabling & strategic technologies=0.0}
+Reverse citation biomedical research biomedical research biology biomedical research biomedical research engineering biology biomedical research earth & environmental sciences 
+Precision: 0.9473684210526315
+######################### Patent ###############################
+Disclosed is a biomarker composition for diagnosing the toxicity of nanoparticles, which shows a change in expression by exposure to the nanoparticles, the biomarker composition comprising at least one gene selected from the group consisting of aldehyde dehydrogenase, glutamic-pyruvate transaminase, glutamate dehydrogenase, glutamicoxaloacetic transaminase, glutamic acid decarboxylase and glutamate-ammonia ligase, and to a method for evaluating the toxicity of nanoparticles using the same. The biomarker is a gene marker having a high correlation with the toxicity of nanoparticles, and the use of the biomarker can determine whether nanoparticles have toxicity, with high detection sensitivity. Also, the method is useful in monitoring or evaluating the toxicity of nanoparticles by analyzing factors having a high correlation with toxicity of nanoparticles. Furthermore, the method can be effectively used as a tool for studying various diseases caused by exposure to nanoparticles or evaluating the effects of nanoparticles on health.
+biomarker enabling & strategic technologies N gram 1 0.5013135569541662
+nanoparticle enabling & strategic technologies N gram 1 0.9680123136945421
+toxicity biomedical research N gram 1 0.5825522779413584
+aldehyde biomedical research N gram 1 0.9121704454182931
+glutamic biomedical research N gram 1 1.0
+pyruvate biomedical research N gram 1 0.6338268123604747
+transaminase biomedical research N gram 1 0.775880047463234
+glutamate biomedical research N gram 1 0.7219458880735172
+dehydrogenase clinical medicine N gram 1 1.0
+disease caused "clinical medicine" N gram 2 1.2
+
+Prior Probability {biomedical research=0.2579544374227573, engineering=0.17934823398730096, clinical medicine=0.1732038407461335, biology=0.1546956073592619, chemistry=0.06204936529618678, physics & astronomy=0.03908794788273615, information & communication technologies=0.03691639522258414, general science & technology=0.03289351886598919, agriculture fisheries & forestry=0.022591152674162025, earth & environmental sciences=0.02062975027144408, mathematics & statistics=0.01737242128121607, public health & health services=0.002171552660152009, built environment & design=0.0010857763300760044}
+Posterior Probability {biomedical research=0.5576923066372267, clinical medicine=0.26519230706062685, enabling & strategic technologies=0.17711538630214643, chemistry=0.0}
+Final result {biomedical research=0.7579853758665459, clinical medicine=0.2420146241334541, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine engineering biomedical research engineering 
+Precision: 0.95
+######################### Patent ###############################
+A method and structure for signal propagation in a coherent optical receiver device. Asynchronous equalization helps to reduce complexity and power dissipation, and also improves the robustness of timing recovery. However, conventional devices using inverse interpolation filters ignore adaptation algorithms. The present invention provides for forward propagation and backward propagation. In the forward case, the filter input signal is forward propagated through a filter to the adaptation engine, while, in the backward case, the error signal is backward propagated through a filter to the asynchronous domain. Using such forward and backward propagation schemes reduces implementation complexity while providing optical device performance.
+dissipation enabling & strategic technologies N gram 1 1.0
+propagated enabling & strategic technologies N gram 1 1.0
+propagation physics & astronomy N gram 1 0.5431824501028418
+algorithm information & communication technologies N gram 1 0.5429043710126251
+interpolation mathematics & statistics N gram 1 0.8720986227487239
+error mathematics & statistics N gram 1 0.6541104340828623
+receiver communication & textual studies N gram 1 0.5469314543734617
+ignore communication & textual studies N gram 1 1.0
+equalization social sciences N gram 1 1.0
+
+Prior Probability {information & communication technologies=0.4760869565217391, engineering=0.40869565217391296, physics & astronomy=0.09130434782608698, psychology & cognitive sciences=0.01086956521739131, public health & health services=0.008695652173913047, chemistry=0.0043478260869565235}
+Posterior Probability {enabling & strategic technologies=0.27935307135888127, communication & textual studies=0.21608348492942547, mathematics & statistics=0.21317948369620407, social sciences=0.13967897539250207, physics & astronomy=0.07587543886718529, information & communication technologies=0.07582954575580184, chemistry=0.0}
+Final result {information & communication technologies=0.8389987490300136, physics & astronomy=0.16100125096998646, enabling & strategic technologies=0.0}
+Reverse citation engineering engineering information & communication technologies information & communication technologies engineering physics & astronomy information & communication technologies 
+Precision: 0.9523809523809523
+######################### Patent ###############################
+The present invention relates to a differential diagnostic method using flow cytometry, performed by means of differential fluorescent marking of biological agents, such as cells and pathogens of interest, with fluorescent substances. The diagnostic method generally consists in performing fluorescent marking of biological agents with gradual concentrations of fluorescent substances, and in analyzing the reactivity profile of IgG1 to the biological agents. The present invention further relates to a diagnostic kit.
+reactivity chemistry N gram 1 0.5721044253875427
+fluorescent biomedical research N gram 1 0.5232645847613565
+marking visual & performing arts N gram 1 1.0
+diagnostic method "clinical medicine" N gram 2 1.3333333333333333
+flow cytometry "clinical medicine" N gram 2 1.0
+biological agent "clinical medicine" N gram 2 1.3333333333333333
+
+Prior Probability {engineering=0.1810919807662479, clinical medicine=0.1629967426710098, biomedical research=0.1518504730882581, chemistry=0.13863192182410428, information & communication technologies=0.11617186288196064, physics & astronomy=0.1088878548161936, earth & environmental sciences=0.06032573289902282, mathematics & statistics=0.051251744997673356, biology=0.007786567395687917, general science & technology=0.007001706219947264, public health & health services=0.0060493252675663115, agriculture fisheries & forestry=0.00492942453854506, built environment & design=0.0030246626337831557}
+Posterior Probability {clinical medicine=0.6363417204334638, visual & performing arts=0.17354244599719224, chemistry=0.09929699853268752, biomedical research=0.09081883503665643, enabling & strategic technologies=0.0}
+Final result {clinical medicine=0.7900899961226473, biomedical research=0.10505078828847284, chemistry=0.10485921558887983, enabling & strategic technologies=0.0}
+Reverse citation biomedical research clinical medicine clinical medicine 
+Precision: 0.9545454545454546
+######################### Patent ###############################
+"Systems and methods for the use of traceable metal-organic frameworks in subterranean formations are provided. In one embodiment, the methods comprise: introducing a fluid into a wellbore penetrating at least a portion of a subterranean formation, the fluid comprising a base fluid and a solid particle comprising a metal-organic framework comprising at least one detectable component, wherein the metal-organic framework further comprises at least one metal ion and an organic ligand that is at least bidentate and that is bonded to the metal ion; and detecting one or more signals from the at least one detectable component."
+organic chemistry N gram 1 0.65140113965205
+detectable chemistry N gram 1 0.5613336391201913
+subterranean biology N gram 1 1.0
+traceable psychology & cognitive sciences N gram 1 0.7747518086997109
+particle physics & astronomy N gram 1 0.6061194796136139
+embodiment philosophy & theology N gram 1 0.7503314550878356
+
+Prior Probability {engineering=0.391304347826087, physics & astronomy=0.30434782608695654, information & communication technologies=0.17391304347826086, earth & environmental sciences=0.13043478260869565}
+Posterior Probability {chemistry=0.27917329087305515, biology=0.23020679340693745, psychology & cognitive sciences=0.17834822148209026, philosophy & theology=0.1727272545145869, physics & astronomy=0.13954443972333025, enabling & strategic technologies=0.0}
+Final result {physics & astronomy=1.0, chemistry=0.0}
+Reverse citation clinical medicine chemistry chemistry 
+Precision: 0.9565217391304348
+######################### Patent ###############################
+One example of a computer-implemented method for adaptively placing weather sensors in response to dynamic local conditions includes obtaining a set of data indicating a dynamic local condition in a geographic location of interest and adaptively modifying a placement of a plurality of weather sensors in the geographic location of interest in response to the dynamic local condition.
+weather earth & environmental sciences N gram 1 0.8972855844802035
+data mathematics & statistics N gram 1 0.6754631851131768
+plurality communication & textual studies N gram 1 0.702209051562583
+placing social sciences N gram 1 1.0
+geographic location "social sciences" N gram 2 2.0
+implemented method "information & communication technologies" N gram 2 1.1666666666666667
+data indicating "information & communication technologies" N gram 2 2.0
+include obtaining "clinical medicine" N gram 2 2.0
+
+Prior Probability {engineering=0.2071713147410358, biomedical research=0.19123505976095612, chemistry=0.17131474103585656, physics & astronomy=0.14342629482071712, information & communication technologies=0.13545816733067725, earth & environmental sciences=0.07569721115537847, mathematics & statistics=0.06374501992031871, public health & health services=0.007968127490039839, biology=0.003984063745019919}
+Posterior Probability {information & communication technologies=0.3032783833023299, social sciences=0.28730410828024827, clinical medicine=0.19154351783208276, earth & environmental sciences=0.0859304867436705, communication & textual studies=0.06725496994395604, mathematics & statistics=0.06468853389771242, chemistry=0.0}
+Final result {information & communication technologies=0.4495084595253157, clinical medicine=0.43419848012749884, earth & environmental sciences=0.07117350749174098, mathematics & statistics=0.04511955285544452, chemistry=0.0}
+Reverse citation engineering engineering earth & environmental sciences 
+Precision: 0.9166666666666666
+######################### Patent ###############################
+This invention discloses a reaction system for producing fatty-acid alkyl esters using liquid film reactors, with countercurrent flow scheme based on the alcoholysis of fats and oils. Reaction system comprises a descending film reactor using semi-structured packing for generating interfacial area. It is fed through the bottom with oil or fat, and with a mixture containing alcohol, glycerol and catalyst through an intermediate stage. Products are a mixture of fatty-acid alkyl esters, alcohol and catalyst and alcohol, glycerol and catalyst, exit via the top and the bottom of the reactor, respectively. Volumetric packing fraction is between 2% and 50%, reaction temperature from 25 to 180.degree. C., molar ratio alcohol to oil between 3:1 and 10:1, and CH3OH, NaOH, KOH, or their mixtures (0.5% to 3% based on the oil mass flow rate). Conversion and yield in a single reaction step are greater than 99.7% and 99.9%, respectively.
+alkyl chemistry N gram 1 1.0
+reactor chemistry N gram 1 0.7348079799750941
+mixture chemistry N gram 1 0.6807471025208582
+catalyst enabling & strategic technologies N gram 1 0.6197508675052369
+exit enabling & strategic technologies N gram 1 0.5171275914408047
+mas psychology & cognitive sciences N gram 1 1.0
+semi agriculture, fisheries & forestry N gram 1 1.0
+yield agriculture, fisheries & forestry N gram 1 0.6542373845185275
+generating engineering N gram 1 0.5369903632320238
+volumetric economics & business  N gram 1 0.5933267150140499
+glycerol biomedical research N gram 1 0.7347140291291061
+countercurrent clinical medicine N gram 1 1.0
+fed historical studies N gram 1 1.0
+molar ratio "earth & environmental sciences" N gram 2 1.0
+molar ratio "engineering" N gram 2 1.0
+rate conversion "information & communication technologies" N gram 2 2.0
+fatty acid "clinical medicine" N gram 2 1.2
+countercurrent flow "clinical medicine" N gram 2 2.0
+
+Prior Probability {engineering=0.33863500597371565, chemistry=0.21333632019115895, biomedical research=0.11574074074074076, agriculture fisheries & forestry=0.1057098765432099, clinical medicine=0.08353245718837117, biology=0.06867283950617285, physics & astronomy=0.04622162485065712, earth & environmental sciences=0.016801075268817207, information & communication technologies=0.006720430107526883, general science & technology=0.00462962962962963}
+Posterior Probability {clinical medicine=0.24317008861241635, chemistry=0.13985711326050576, information & communication technologies=0.11579492535549075, agriculture fisheries & forestry=0.09578012364920237, engineering=0.08899021226941972, enabling & strategic technologies=0.06582518691560064, psychology & cognitive sciences=0.057899368262980665, earth & environmental sciences=0.05789601486451346, historical studies=0.05789547147681179, biomedical research=0.042538531509007105, economics & business =0.03435296382405125, biology=0.0}
+Final result {engineering=0.3104044882819242, chemistry=0.30732879876788777, clinical medicine=0.20922776153045958, agriculture fisheries & forestry=0.10429052599206144, biomedical research=0.05071339084693782, earth & environmental sciences=0.01001935229806907, information & communication technologies=0.008015682282660147, enabling & strategic technologies=0.0}
+Reverse citation engineering information & communication technologies engineering 
+Precision: 0.92
+######################### Patent ###############################
+The disclosure provides methods and kits for diagnosing the nutritional state of selenium, using six proteins as biomarkers for which the expression increases when the metabolic state is supra-nutritional.
+biomarker enabling & strategic technologies N gram 1 0.5013135569541662
+selenium biomedical research N gram 1 1.0
+disclosure provide "physics & astronomy" N gram 2 2.0
+provide method "mathematics & statistics" N gram 2 2.0
+
+Prior Probability {engineering=0.2855567425153429, chemistry=0.21146029133052358, clinical medicine=0.15209397867623498, biomedical research=0.1105833031728797, physics & astronomy=0.0900686004382022, information & communication technologies=0.059406850898392344, earth & environmental sciences=0.041025270568456444, mathematics & statistics=0.026058631921824105, general science & technology=0.007886958619857642, biology=0.007801504001286846, public health & health services=0.003257328990228013, agriculture fisheries & forestry=0.003171874371657216, built environment & design=0.0016286644951140066}
+Posterior Probability {physics & astronomy=0.3635476832953287, mathematics & statistics=0.36354290685369445, biomedical research=0.18177680960457018, enabling & strategic technologies=0.09113260024640656, chemistry=0.0}
+Final result {physics & astronomy=0.525428143649207, biomedical research=0.3225570738440321, mathematics & statistics=0.15201478250676087, enabling & strategic technologies=0.0}
+Reverse citation biomedical research biomedical research clinical medicine 
+Precision: 0.9230769230769231
+######################### Patent ###############################
+A pruning method includes representing a set of sequences in a data structure. Each sequence s includes a first symbol w and a context c of at least one symbol. Some of the sequences are associated with a conditional probability p(w|c), based on observations of cw in training data. For others, p(w|c) is computed as a function of the probability p(w|c) of the respective symbol w in a back-off context c, p(w|c) being based on observations of sequence cw in the training data. A scoring function f(cw) value is computed for each sequence in the set, based on p(w|c) for the sequence and a probability distribution p(s) of each symbol in the sequence if it is removed from the set of sequences. Iteratively, one of the represented sequences is selected to be removed, based on the computed scoring function values, and the scoring function values of remaining sequences are updated.
+pruning agriculture, fisheries & forestry N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+conditional mathematics & statistics N gram 1 0.8061980718573605
+probability mathematics & statistics N gram 1 0.930334408039228
+conditional probability "mathematics & statistics" N gram 2 2.0
+data structure "information & communication technologies" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.6048034934497817, engineering=0.13755458515283844, clinical medicine=0.10698689956331878, mathematics & statistics=0.056768558951965066, psychology & cognitive sciences=0.043668122270742356, built environment & design=0.03275109170305677, economics & business =0.010917030567685589, earth & environmental sciences=0.0043668122270742364, chemistry=0.0021834061135371182}
+Posterior Probability {mathematics & statistics=0.6880885844773716, agriculture fisheries & forestry=0.1559561756168616, information & communication technologies=0.1559552399057667, chemistry=0.0}
+Final result {information & communication technologies=0.7071479600628063, mathematics & statistics=0.2928520399371938, chemistry=0.0}
+Reverse citation "information & communication technologies information & communication technologies ""public health & health services information & communication technologies information & communication technologies mathematics & statistics "
+Precision: 0.9259259259259259
+######################### Patent ###############################
+Methods for introgressing an allele of interest of a locus associated with a yield trait into Zea mays germplasm are provided. In some embodiments, the methods include providing a Zea mays plant that contains an allele of interest of a locus associated with a yield trait, wherein the locus associated with the yield trait is identifiable by PCR amplification of a Zea mays nucleic acid with a pair of oligonucleotides primers as disclosed herein, and introgressing the allele of interest into Zea mays germplasm that lacks the allele. Also provided are methods for identifying Zea mays plants that contain at least one allele associated with improved yield, improved maize plants, elite Zea mays plants, biomass produced from improved Zea mays plants, isolated and purified genetic markers, and compositions that include an amplification primer pair capable of amplifying a Zea mays nucleic acid to generate a Zea mays marker amplicon.
+zea biology N gram 1 0.6663637578511292
+plant biology N gram 1 0.5634682559835904
+improved biology N gram 1 1.0
+yield agriculture, fisheries & forestry N gram 1 0.6542373845185275
+maize agriculture, fisheries & forestry N gram 1 0.6774928863285703
+allele biomedical research N gram 1 0.8624882323614335
+pcr biomedical research N gram 1 0.7736588863703333
+nucleic biomedical research N gram 1 0.5757407436040105
+oligonucleotide biomedical research N gram 1 0.5858058942751769
+generate clinical medicine N gram 1 1.0
+embodiment philosophy & theology N gram 1 0.7503314550878356
+include providing "physics & astronomy" N gram 2 2.0
+nucleic acid "biomedical research" N gram 2 1.1162790697674418
+zea may "biology" N gram 2 2.0
+acid pair "clinical medicine" N gram 2 2.0
+nucleic acid pair "clinical medicine" N gram 3 3.0
+
+Prior Probability {biology=0.28677600072286985, biomedical research=0.21565238998825334, engineering=0.15344040842143308, clinical medicine=0.09491054486310653, general science & technology=0.09166892563477004, chemistry=0.07034426673895365, agriculture fisheries & forestry=0.047991777356103736, information & communication technologies=0.02696078431372549, earth & environmental sciences=0.012254901960784314}
+Posterior Probability {clinical medicine=0.3291968405157032, biology=0.2320826302394044, biomedical research=0.2147521500980818, physics & astronomy=0.10972908351629582, agriculture fisheries & forestry=0.07306776964964289, philosophy & theology=0.04117152598087199, chemistry=0.0}
+Final result {biology=0.4508632225354537, biomedical research=0.3137264718071773, clinical medicine=0.21165546868523974, agriculture fisheries & forestry=0.023754836972129253, chemistry=0.0}
+Reverse citation biomedical research biomedical research biology biology 
+Precision: 0.9285714285714286
+######################### Patent ###############################
+Systems and methods are described for correcting sagittal imbalance in a spine including instruments for performing the controlled release of the anterior longitudinal ligament through a lateral access corridor and hyper-lordotic lateral implants.
+longitudinal psychology & cognitive sciences N gram 1 0.5725147355651885
+corridor built environment & design N gram 1 0.8063516653756777
+implant engineering N gram 1 0.5007150706017846
+sagittal biomedical research N gram 1 0.775880047463234
+
+Prior Probability {clinical medicine=0.6941544885177454, biomedical research=0.10125260960334029, chemistry=0.054279749478079314, agriculture fisheries & forestry=0.0490605427974948, engineering=0.040709812108559444, biology=0.02087682672233822, public health & health services=0.014613778705636736, physics & astronomy=0.01043841336116911, information & communication technologies=0.009394572025052185, general science & technology=0.005219206680584555}
+Posterior Probability {built environment & design=0.30364376599422904, biomedical research=0.2921814732242488, psychology & cognitive sciences=0.21560435434753342, engineering=0.1885704064339889, chemistry=0.0}
+Final result {biomedical research=0.7939747587548858, engineering=0.20602524124511426, chemistry=0.0}
+Reverse citation clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine engineering clinical medicine clinical medicine 
+Precision: 0.9310344827586207
+######################### Patent ###############################
+A control systems and methods are presented for controlling a production system, in which a model-based planner includes a formulation, such as a SAT formulation representing possible actions in the production, with a solver being used to provide a solution to the formulation based at least partially on production and diagnostic goals and the current plant condition, and a translation component translates the solution into a plan for execution in the plant.
+plant biology N gram 1 0.5634682559835904
+translate psychology & cognitive sciences N gram 1 0.7747518086997109
+controlling economics & business  N gram 1 0.5637285871586131
+sat clinical medicine N gram 1 1.0
+control system "engineering" N gram 2 1.6666666666666667
+provide solution "engineering" N gram 2 1.3333333333333333
+
+Prior Probability {information & communication technologies=0.3313596679547731, chemistry=0.19951481322455986, engineering=0.14376699584943464, physics & astronomy=0.12591240875912407, biomedical research=0.04411478459997136, biology=0.03834979247173321, clinical medicine=0.03704594246457706, earth & environmental sciences=0.03387290682696435, mathematics & statistics=0.01916702447402318, psychology & cognitive sciences=0.008587376556461999, built environment & design=0.006440532417346499, agriculture fisheries & forestry=0.005335623300415056, general science & technology=0.0035265493058537272, economics & business =0.0021468441391154997, communication & textual studies=8.587376556461999E-4}
+Posterior Probability {engineering=0.5083159345239606, clinical medicine=0.1694328713289761, psychology & cognitive sciences=0.13126807736678328, economics & business =0.09551344294706085, biology=0.09546967383321919, chemistry=0.0}
+Final result {engineering=0.8663850164659717, clinical medicine=0.07441428780968858, biology=0.043405670365680125, psychology & cognitive sciences=0.013364036172116341, economics & business =0.00243098918654325, chemistry=0.0}
+Reverse citation engineering information & communication technologies information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.9333333333333333
+######################### Patent ###############################
+The presently disclosed subject matter relates to methods and compositions for identifying, selecting, and/or producing drought tolerant maize plants or germplasm. Maize plants or germplasm that have been identified, selected, and/or produced by any of the methods of the presently disclosed subject matter are also provided.
+plant biology N gram 1 0.5634682559835904
+tolerant agriculture, fisheries & forestry N gram 1 0.6290046378879771
+maize agriculture, fisheries & forestry N gram 1 0.6774928863285703
+drought tolerant "engineering" N gram 2 2.0
+presently disclosed "information & communication technologies" N gram 2 2.0
+disclosed subject "enabling & strategic technologies" N gram 2 1.5
+presently disclosed subject "information & communication technologies" N gram 3 3.0
+disclosed subject matter "enabling & strategic technologies" N gram 3 2.25
+
+Prior Probability {biology=0.24494970031023167, biomedical research=0.2442522062588476, engineering=0.18130289750308723, clinical medicine=0.12708660883708317, general science & technology=0.06614680280714436, chemistry=0.05477274780880093, agriculture fisheries & forestry=0.03965897111532784, information & communication technologies=0.029035947712418297, earth & environmental sciences=0.009460784313725488, mathematics & statistics=0.003333333333333333}
+Posterior Probability {information & communication technologies=0.3961913667582503, enabling & strategic technologies=0.29714445164638714, engineering=0.15848036101459792, agriculture fisheries & forestry=0.10352996111709406, biology=0.04465385946367072, chemistry=0.0}
+Final result {engineering=0.5197656712570448, information & communication technologies=0.20809824096886315, biology=0.1978624167664012, agriculture fisheries & forestry=0.07427367100769082, enabling & strategic technologies=0.0}
+Reverse citation biology biology engineering 
+Precision: 0.9354838709677419
+######################### Patent ###############################
+An integrated process for the production of propene from a mixture of alcohols obtained by IBE (Isopropanol-Butanol-Ethanol) fermentation from at least one renewable source of carbon is disclosed. The process is characterized by dehydration of the alcohols in order to generate ethene, propene and linear butenes, respectively. The olefin mixture is then directed to an isomerization bed in order to generate 2-butene from 1-butene, followed by a metathesis bed to react ethene and 2-butenes to generate additional propene. This process exhibits a yield in carbon moles higher than 90% propene with respect to the alcohols produced in the fermentation step.
+mixture chemistry N gram 1 0.6807471025208582
+ethene chemistry N gram 1 1.0
+olefin chemistry N gram 1 1.0
+ethanol enabling & strategic technologies N gram 1 0.5782057416267943
+exhibit enabling & strategic technologies N gram 1 0.6112998535612708
+yield agriculture, fisheries & forestry N gram 1 0.6542373845185275
+dehydration biomedical research N gram 1 0.9121704454182931
+generate clinical medicine N gram 1 1.0
+renewable source "engineering" N gram 2 2.0
+
+Prior Probability {engineering=0.32989295445999534, chemistry=0.2203637574417527, clinical medicine=0.16757595355155475, biomedical research=0.15079011801041606, biology=0.05408396733912462, physics & astronomy=0.02994585788893678, general science & technology=0.02179694136043506, information & communication technologies=0.01207416990081932, agriculture fisheries & forestry=0.01088895792536127, mathematics & statistics=0.0025873221216041395}
+Posterior Probability {chemistry=0.31774200079531373, engineering=0.23705699892834284, enabling & strategic technologies=0.14100115331390634, clinical medicine=0.11853585431077376, biomedical research=0.10811576132050563, agriculture fisheries & forestry=0.07754823133115751, earth & environmental sciences=0.0}
+Final result {engineering=0.4221890278521482, chemistry=0.3780035815859859, clinical medicine=0.10723648082636957, biomedical research=0.08801222733030106, agriculture fisheries & forestry=0.004558682405195327, enabling & strategic technologies=0.0}
+Reverse citation biomedical research engineering biomedical research engineering 
+Precision: 0.9375
+######################### Patent ###############################
+A method of designing a nanoparticle tailored to support hydrocarbon recovery in a subterranean formation, a method for using nanoparticles to extract hydrocarbon from a subterranean formation, and a nanoparticle structure. The method may include determining environmental conditions of a subterranean formation, defining nanoparticle parameters based on the environmental conditions, and forming a nanoparticle comprising the nanoparticle parameters. The method may include producing a colloidal suspension of nanoparticles by mixing nanoparticles with water and injecting the colloidal suspension of nanoparticles into a subterranean formation. A nanoparticle structure may include a hydrophilic material in a defined three-dimensional shape having a maximum diameter. The nanoparticle may penetrate through an oil-water interface with an optimized contact angle, minimize an interfacial area between oil and water, and create an oil in water emulsion.
+hydrocarbon chemistry N gram 1 0.6878957699401715
+hydrophilic chemistry N gram 1 0.5603237590656323
+nanoparticle enabling & strategic technologies N gram 1 0.9680123136945421
+optimized enabling & strategic technologies N gram 1 0.6391600663105544
+penetrate earth & environmental sciences N gram 1 0.6635645079041306
+subterranean biology N gram 1 1.0
+suspension engineering N gram 1 1.0
+minimize engineering N gram 1 1.0
+angle physics & astronomy N gram 1 0.6383172953811443
+parameter mathematics & statistics N gram 1 0.662098202981484
+parameter based "engineering" N gram 2 2.0
+include determining "information & communication technologies" N gram 2 1.0
+include determining "psychology & cognitive sciences" N gram 2 1.0
+
+Prior Probability {engineering=0.463768115942029, information & communication technologies=0.3913043478260869, physics & astronomy=0.10144927536231885, earth & environmental sciences=0.043478260869565216}
+Posterior Probability {engineering=0.3384220846266436, enabling & strategic technologies=0.13598006538608287, chemistry=0.10561299213381808, psychology & cognitive sciences=0.08460854311843106, biology=0.08460556982212952, information & communication technologies=0.08460434081833322, earth & environmental sciences=0.05614462251332318, mathematics & statistics=0.056017355378261, physics & astronomy=0.05400442620297733, built environment & design=0.0}
+Final result {engineering=0.7927728979554809, information & communication technologies=0.1672232001858243, physics & astronomy=0.02767371832556837, earth & environmental sciences=0.012330183533126331, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine engineering physics & astronomy physics & astronomy physics & astronomy 
+Precision: 0.9393939393939394
+######################### Patent ###############################
+A method of updating a suffix tree includes providing an initial suffix tree based on a first sequence of symbols drawn from an alphabet. The suffix tree includes existing nodes representing respective subsequences occurring in the first sequence of symbols. The existing nodes are associated with information relating to membership of the subsequences in at least one class of repeat subsequences. A second sequence of symbols is received and the initial suffix tree is updated to form an updated suffix tree by adding new nodes representing subsequences occurring in the second sequence of symbols that are not represented by the existing nodes. The subsequences represented by the new nodes are ordered in a new node data structure which is processed to updating the information relating to the at least one class of repeat subsequences associated with at least some of the nodes in the updated suffix tree.
+repeat chemistry N gram 1 0.8277966895311043
+tree agriculture, fisheries & forestry N gram 1 0.5918389488795743
+existing information & communication technologies N gram 1 1.0
+node information & communication technologies N gram 1 0.5629544040610629
+data mathematics & statistics N gram 1 0.6754631851131768
+alphabet communication & textual studies N gram 1 0.5640118207280134
+include providing "physics & astronomy" N gram 2 2.0
+node representing "social sciences" N gram 2 2.0
+data structure "information & communication technologies" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.6048034934497816, engineering=0.13755458515283842, clinical medicine=0.10698689956331876, mathematics & statistics=0.056768558951965066, psychology & cognitive sciences=0.043668122270742356, built environment & design=0.03275109170305676, economics & business =0.010917030567685589, earth & environmental sciences=0.004366812227074236, chemistry=0.002183406113537118}
+Posterior Probability {information & communication technologies=0.27791674540663247, social sciences=0.21686491769968694, physics & astronomy=0.21686444321150072, chemistry=0.08976232564455815, mathematics & statistics=0.07324601201636774, agriculture fisheries & forestry=0.06418030133258124, communication & textual studies=0.06116525468867275, enabling & strategic technologies=0.0}
+Final result {information & communication technologies=0.9679351587975581, mathematics & statistics=0.023944684153834817, physics & astronomy=0.005453434837082636, communication & textual studies=0.001538107058024857, chemistry=0.0011286151534997916, enabling & strategic technologies=0.0}
+Reverse citation engineering information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.9411764705882353
+######################### Patent ###############################
+A composition and therapeutic methods therefore for pharmacologically strong acid solutions comprising a mixture of strong and weak acids.
+mixture chemistry N gram 1 0.6807471025208582
+solution comprising "chemistry" N gram 2 2.0
+
+Prior Probability {clinical medicine=0.6562251024260871, biomedical research=0.10100233975302511, engineering=0.05974292425015821, chemistry=0.05867117512497739, agriculture fisheries & forestry=0.04773897394762881, biology=0.023892668443762664, information & communication technologies=0.02088537910930941, public health & health services=0.013706325435429026, physics & astronomy=0.009790232453877883, general science & technology=0.005757556934140321, mathematics & statistics=0.00258732212160414}
+Posterior Probability {chemistry=1.0, enabling & strategic technologies=0.0}
+Final result {chemistry=1.0, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine clinical medicine biomedical research clinical medicine 
+Precision: 0.9142857142857143
+######################### Patent ###############################
+A method for performing intrastromal ophthalmic laser surgery requires Laser Induced Optical Breakdown (LIOB) of stromal tissue without compromising Bowman's capsule (membrane). In detail, the method creates cuts in the stroma over all, or portions of, a plurality of concentric cylindrical surfaces (circular or oval). Importantly, these cuts are all centered on the visual axis of the patient's eye. In accordance with the present invention, cuts can be made either alone or in conjunction with the removal of predetermined volumes of stromal tissue. The actual location of cuts in the surgery will depend on whether the treatment is for presbyopia, myopia, hyperopia or astigmatism.
+bowman enabling & strategic technologies N gram 1 1.0
+induced agriculture, fisheries & forestry N gram 1 1.0
+cylindrical physics & astronomy N gram 1 0.6519942940754526
+presbyopia physics & astronomy N gram 1 0.927662089905151
+myopia physics & astronomy N gram 1 0.7194795126891705
+hyperopia physics & astronomy N gram 1 0.8650837400900043
+astigmatism physics & astronomy N gram 1 0.8650837400900043
+axi mathematics & statistics N gram 1 0.6618929412513526
+intrastromal clinical medicine N gram 1 1.0
+ophthalmic clinical medicine N gram 1 0.5964345072281021
+plurality communication & textual studies N gram 1 0.702209051562583
+concentric social sciences N gram 1 1.0
+cylindrical surface "physics & astronomy" N gram 2 2.0
+laser surgery "engineering" N gram 2 1.0
+laser surgery "clinical medicine" N gram 2 1.0
+patient eye "clinical medicine" N gram 2 2.0
+predetermined volume "clinical medicine" N gram 2 2.0
+actual location "clinical medicine" N gram 2 2.0
+myopia hyperopia "clinical medicine" N gram 2 2.0
+
+Prior Probability {clinical medicine=0.6941544885177453, biomedical research=0.10125260960334026, chemistry=0.05427974947807933, agriculture fisheries & forestry=0.04906054279749478, engineering=0.04070981210855949, biology=0.0208768267223382, public health & health services=0.01461377870563674, physics & astronomy=0.0104384133611691, information & communication technologies=0.009394572025052192, general science & technology=0.00521920668058455}
+Posterior Probability {clinical medicine=0.4818716074682139, physics & astronomy=0.27419059253353417, engineering=0.045476909304791875, social sciences=0.04547563590782493, agriculture fisheries & forestry=0.045475504245697476, enabling & strategic technologies=0.045473360743703645, communication & textual studies=0.03193539154236894, mathematics & statistics=0.03010099825386508, chemistry=0.0}
+Final result {clinical medicine=0.979660943187204, physics & astronomy=0.008382534721940746, agriculture fisheries & forestry=0.006534286797116483, engineering=0.005422235293738772, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine engineering physics & astronomy 
+Precision: 0.9166666666666666
+######################### Patent ###############################
+A system, method and computer program product for disambiguating one or more entity mentions in one or more documents. The method facilitates the simultaneous linking entity mentions in a document based on convolution neural networks and recurrent neural networks that model both the local and global features for entity linking. The framework uses the capacity of convolution neural networks to induce the underlying representations for local contexts and the advantage of recurrent neural networks to adaptively compress variable length sequences of predictions for global constraints. The RNN functions to accumulate information about the previous entity mentions and/or target entities, and provide them as the global constraints for the linking process of a current entity mention.
+underlying biology N gram 1 0.6077888163371442
+facilitate built environment & design N gram 1 0.5052088745880984
+accumulate physics & astronomy N gram 1 0.762244555522193
+convolution information & communication technologies N gram 1 0.6797997387897258
+neural information & communication technologies N gram 1 0.5361861928764536
+recurrent information & communication technologies N gram 1 0.8569970349487191
+rnn information & communication technologies N gram 1 1.0
+induce biomedical research N gram 1 0.7147107286708165
+variable mathematics & statistics N gram 1 0.518292485379227
+system method "information & communication technologies" N gram 2 1.0
+neural network "information & communication technologies" N gram 2 1.4639175257731958
+variable length "information & communication technologies" N gram 2 2.0
+
+Prior Probability {information & communication technologies=0.6048034934497817, engineering=0.13755458515283844, clinical medicine=0.10698689956331878, mathematics & statistics=0.056768558951965066, psychology & cognitive sciences=0.043668122270742356, built environment & design=0.03275109170305677, economics & business =0.010917030567685589, earth & environmental sciences=0.0043668122270742364, chemistry=0.0021834061135371182}
+Posterior Probability {information & communication technologies=0.708009670107324, physics & astronomy=0.07160358530519113, biomedical research=0.06714272640025978, biology=0.057093215246975255, mathematics & statistics=0.04869216389035861, built environment & design=0.047458639049891393, chemistry=0.0}
+Final result {information & communication technologies=0.9889654586110841, mathematics & statistics=0.006384025131207009, built environment & design=0.0035897871939092507, physics & astronomy=7.221491912746621E-4, biomedical research=3.3857987252496063E-4, chemistry=0.0}
+Reverse citation communication & textual studies information & communication technologies information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.918918918918919
+######################### Patent ###############################
+Systems and methods are described for correcting sagittal imbalance in a spine including instruments for performing the controlled release of the anterior longitudinal ligament through a lateral access corridor and hyper-lordotic lateral implants.
+longitudinal psychology & cognitive sciences N gram 1 0.5725147355651885
+corridor built environment & design N gram 1 0.8063516653756777
+implant engineering N gram 1 0.5007150706017846
+sagittal biomedical research N gram 1 0.775880047463234
+
+Prior Probability {clinical medicine=0.6941544885177454, biomedical research=0.10125260960334025, chemistry=0.05427974947807931, agriculture fisheries & forestry=0.04906054279749479, engineering=0.04070981210855944, biology=0.02087682672233822, public health & health services=0.014613778705636732, physics & astronomy=0.01043841336116911, information & communication technologies=0.009394572025052181, general science & technology=0.005219206680584555}
+Posterior Probability {built environment & design=0.3036417295061943, biomedical research=0.2921677758123943, psychology & cognitive sciences=0.21561393030534667, engineering=0.1885765643760647, chemistry=0.0}
+Final result {biomedical research=0.7939617479939398, engineering=0.2060382520060601, chemistry=0.0}
+Reverse citation clinical medicine clinical medicine clinical medicine clinical medicine clinical medicine engineering clinical medicine clinical medicine 
+Precision: 0.9210526315789473
+######################### Patent ###############################
+Methods, apparatus, and other embodiments associated with classifying a region of tissue represented in a digitized whole slide image (WSI) using iterative gradient-based quasi-Monte Carlo (QMC) sampling. One example apparatus includes an image acquisition circuit that acquires a WSI of a region of tissue demonstrating cancerous pathology, an adaptive sampling circuit that selects a subset of tiles from the WSI using an iterative QMC Sobol sequence sampling approach, an invasiveness circuit that determines a probability of a presence of invasive pathology in a member of the subset of tiles, a probability map circuit that generates an invasiveness probability map based on the probability, a probability gradient circuit that generates a gradient image based on the invasiveness probability map, and a classification circuit that classifies the region of tissue based on the probability map. A prognosis or treatment plan may be provided based on the classification of the WSI.
+prognosi enabling & strategic technologies N gram 1 0.8303781880453711
+tile built environment & design N gram 1 1.0
+circuit engineering N gram 1 0.5428058071122389
+slide biomedical research N gram 1 0.6921662289825452
+sampling mathematics & statistics N gram 1 0.5182490836419452
+probability mathematics & statistics N gram 1 0.930334408039228
+generate clinical medicine N gram 1 1.0
+acquire communication & textual studies N gram 1 0.7661689775773608
+select social sciences N gram 1 0.5436907881475509
+embodiment philosophy & theology N gram 1 0.7503314550878356
+monte carlo "engineering" N gram 2 1.0
+gradient based "information & communication technologies" N gram 2 2.0
+treatment plan "information & communication technologies" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.5349463335521014, clinical medicine=0.17180408615163673, engineering=0.12536577790837883, mathematics & statistics=0.05454961582475071, psychology & cognitive sciences=0.037273173124080426, built environment & design=0.02795487984306032, biomedical research=0.01258627262466796, economics & business =0.009318293281020107, public health & health services=0.006762467308500252, chemistry=0.004344714394976458, physics & astronomy=0.004204443416018129, general science & technology=0.003965880364213087, earth & environmental sciences=0.0037273173124080456, agriculture fisheries & forestry=0.002242492686967393, biology=9.542522072201673E-4}
+Posterior Probability {information & communication technologies=0.25919685470612647, engineering=0.13329837198756062, mathematics & statistics=0.12515987394181108, built environment & design=0.08639859371339921, clinical medicine=0.08639629460373843, enabling & strategic technologies=0.07174197748687847, communication & textual studies=0.06619656215413561, philosophy & theology=0.06482809613457045, biomedical research=0.05980413775903337, social sciences=0.04697923751274607, chemistry=0.0}
+Final result {information & communication technologies=0.768380342293337, engineering=0.09260621804064072, clinical medicine=0.08225549281556924, mathematics & statistics=0.037834945839041526, built environment & design=0.013384452375591594, biomedical research=0.004171235125264627, communication & textual studies=0.0013673135105554551, enabling & strategic technologies=0.0}
+Reverse citation information & communication technologies clinical medicine information & communication technologies 
+Precision: 0.9230769230769231
+######################### Patent ###############################
+Technologies pertaining to human-robot interaction are described herein. The robot includes a computer-readable memory that comprises a model that, with respect to successful completions of a task, is fit to observed data, where at least some of such observed data pertains to a condition that is controllable by the robot, such as position of the robot or distance between the robot and a human. A task that is desirably performed by the robot is to cause the human to engage with the robot. The model is updated while the robot is online, such that behavior of the robot adapts over time to increase the likelihood that the robot will successfully complete the task.
+observed physics & astronomy N gram 1 0.5896692281848638
+adapt economics & business  N gram 1 1.0
+pertaining information & communication technologies N gram 1 1.0
+readable information & communication technologies N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+pertain mathematics & statistics N gram 1 0.5449558830886911
+technologie general science & technology N gram 1 1.0
+observed data "mathematics & statistics" N gram 2 2.0
+successful completion "clinical medicine" N gram 2 1.5
+
+Prior Probability {information & communication technologies=0.3934289127837515, chemistry=0.19557945041816013, physics & astronomy=0.14062126642771805, engineering=0.10083632019115889, clinical medicine=0.03512544802867384, earth & environmental sciences=0.029271206690561526, biomedical research=0.02855436081242533, biology=0.027837514934289126, mathematics & statistics=0.01863799283154122, psychology & cognitive sciences=0.014336917562724014, built environment & design=0.01075268817204301, economics & business =0.0035842293906810036, communication & textual studies=0.0014336917562724014}
+Posterior Probability {mathematics & statistics=0.34590147805172605, information & communication technologies=0.21482620781111078, clinical medicine=0.16111396036541153, general science & technology=0.10740919686054382, economics & business =0.10740801641182662, physics & astronomy=0.06334114049938115, chemistry=0.0}
+Final result {information & communication technologies=0.7968136294023017, physics & astronomy=0.08397308389167595, mathematics & statistics=0.06077917170741915, clinical medicine=0.05335292878065822, economics & business =0.0036294073304303735, general science & technology=0.0014517788875146665, chemistry=0.0}
+Reverse citation engineering engineering information & communication technologies information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.925
+######################### Patent ###############################
+A method, and associated kit, for assaying the activity of lysosomal enzymes present in dried bodily fluids and cell tissue samples, such as .alpha.-L-iduronidase, .beta.-D-galactosidase, .beta.-D-glucosidase, chitotriosidase, total .alpha.-D-galactosidase and .alpha.-D-galactosidase A, hexosaminidase A and B, .alpha.-D-mannosidase, .beta.-D-mannosidase, .alpha.-L-fucosidase, N-acetyl-.alpha.-galactosaminidase, arylsulfatases, sphingomyelinase, .beta.-galactocerebrosidase, iduronate-2-sulfatase and .beta.-D-glucuronidase. The method includes: (a) combining with a dried bodily fluid or cell tissue sample containing at least one type of lysosomal enzyme: (1) an eluent, (2) an incubation buffer and (3) a substrate or substrates capable of reacting with the assayed lysosomal enzymes and producing their corresponding enzyme product or products, (b) allowing the dried bodily fluid or cell tissue sample to react with the eluent, incubation buffer and substrate or substrates for an adequate time and temperature, and (c) applying measuring means to the enzyme product to determine the activities of the lysosomal enzymes present.
+alpha chemistry N gram 1 0.7023922464132746
+beta chemistry N gram 1 0.5503655730185637
+acetyl biology N gram 1 0.8736474517941191
+buffer agriculture, fisheries & forestry N gram 1 0.7501981791539551
+sample mathematics & statistics N gram 1 0.5654339462086461
+fluid cell "chemistry" N gram 2 2.0
+cell tissue "biology" N gram 2 1.0
+bodily fluid "clinical medicine" N gram 2 2.0
+cell tissue "clinical medicine" N gram 2 1.0
+tissue sample "clinical medicine" N gram 2 1.5
+
+Prior Probability {biomedical research=0.3087557603686636, biology=0.2304147465437788, engineering=0.18433179723502305, clinical medicine=0.17511520737327188, general science & technology=0.04608294930875576, agriculture fisheries & forestry=0.03225806451612903, chemistry=0.02304147465437788}
+Posterior Probability {clinical medicine=0.41125613437638786, chemistry=0.2972682238672188, biology=0.17123419780751042, agriculture fisheries & forestry=0.06856405535590342, mathematics & statistics=0.05167738859297947, enabling & strategic technologies=0.0}
+Final result {clinical medicine=0.5974878778182999, biology=0.3273358866637739, chemistry=0.05682659123145866, agriculture fisheries & forestry=0.01834964428646745, mathematics & statistics=0.0}
+Reverse citation clinical medicine clinical medicine clinical medicine 
+Precision: 0.926829268292683
+######################### Patent ###############################
+A method and structure for a coherent optical receiver device. Timing recovery (TR) is implemented after channel dispersion (i.e., chromatic dispersion (CD) and polarization mode dispersion (PMD)) compensation blocks. This architecture provides both improves performance and reduces power consumption of the device. Also, a TR loop is provided, enabling computing, by an error evaluation module, a first sampling phase error (SPE) and computing, by a timing phase information (TPI) module coupled to the error evaluation module, a second SPE from a plurality of CD equalizer taps PMD equalizer taps. The first and second SPE are combined into a total phase error (TPE) in a combining module, and the resulting TPE is filtered by a timing recovery (TR) filter coupled to an interpolated timing recovery (ITR) module and the combining module. The ITR module then synchronizes an input signal of the coherent optical receiver according to the TPE.
+architecture built environment & design N gram 1 0.6601511916153332
+loop engineering N gram 1 0.5006665555797761
+dispersion physics & astronomy N gram 1 0.6232899117956001
+polarization physics & astronomy N gram 1 0.872744478793134
+error mathematics & statistics N gram 1 0.6541104340828623
+sampling mathematics & statistics N gram 1 0.5182490836419452
+receiver communication & textual studies N gram 1 0.5469314543734617
+plurality communication & textual studies N gram 1 0.702209051562583
+combined social sciences N gram 1 1.0
+chromatic visual & performing arts N gram 1 0.6989096573208723
+equalizer visual & performing arts N gram 1 1.0
+polarization mode "physics & astronomy" N gram 2 2.0
+improve performance "engineering" N gram 2 1.0
+power consumption "engineering" N gram 2 1.0
+input signal "engineering" N gram 2 1.6666666666666667
+power consumption "information & communication technologies" N gram 2 1.0
+improve performance "psychology & cognitive sciences" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.4760869565217391, engineering=0.40869565217391296, physics & astronomy=0.09130434782608698, psychology & cognitive sciences=0.01086956521739131, public health & health services=0.008695652173913047, chemistry=0.0043478260869565235}
+Posterior Probability {engineering=0.2698385981964252, physics & astronomy=0.2263652330816293, visual & performing arts=0.11000532175153785, communication & textual studies=0.08088706337436823, mathematics & statistics=0.0759116641582126, social sciences=0.06475091995269712, psychology & cognitive sciences=0.06474831464056409, information & communication technologies=0.06474759905782669, built environment & design=0.042745285786738904, chemistry=0.0}
+Final result {engineering=0.6779687355229663, information & communication technologies=0.18950275543551318, physics & astronomy=0.12705938862784247, psychology & cognitive sciences=0.004326594744231732, built environment & design=0.0011425256694463774, mathematics & statistics=0.0}
+Reverse citation engineering engineering information & communication technologies information & communication technologies engineering physics & astronomy information & communication technologies 
+Precision: 0.9285714285714286
+######################### Patent ###############################
+Methods and products for protecting tissue of a patient during a surgical procedure that involve making an incision in the tissue and retracting the tissue to make a larger opening, wherein the methods and products use a water-absorbing stress-distributing layer.
+incision biomedical research N gram 1 0.6338268123604747
+surgical procedure "clinical medicine" N gram 2 1.75
+
+Prior Probability {clinical medicine=0.6941544885177453, biomedical research=0.10125260960334034, chemistry=0.05427974947807935, agriculture fisheries & forestry=0.04906054279749481, engineering=0.04070981210855951, biology=0.020876826722338208, public health & health services=0.014613778705636743, physics & astronomy=0.010438413361169104, information & communication technologies=0.009394572025052195, general science & technology=0.005219206680584552}
+Posterior Probability {clinical medicine=0.734093210068785, biomedical research=0.265906789931215, chemistry=0.0}
+Final result {clinical medicine=0.9498157238959475, biomedical research=0.05018427610405244, chemistry=0.0}
+Reverse citation clinical medicine clinical medicine engineering 
+Precision: 0.9302325581395349
+######################### Patent ###############################
+In a method and breathing apparatus for prediction of fluid responsiveness of a subject connected to a breathing apparatus, at least one parameter is monitored that is indicative of a degree of carbon dioxide elimination of the subject, and a positive end expiratory pressure PEEP regulator of the breathing apparatus is operated to apply a PEEP maneuver in which a PEEP applied to the subject is changed from a first PEEP level to a second PEEP level. A processor predicts the fluid responsiveness of the subject based on a change in the monitored parameter, following the change in PEEP.
+responsivenes psychology & cognitive sciences N gram 1 1.0
+processor information & communication technologies N gram 1 0.8539857608384828
+parameter mathematics & statistics N gram 1 0.662098202981484
+applied mathematics & statistics N gram 1 1.0
+breathing clinical medicine N gram 1 0.8823369031779614
+connected communication & textual studies N gram 1 1.0
+indicative communication & textual studies N gram 1 0.6859686071925293
+carbon dioxide "clinical medicine" N gram 2 1.2142857142857142
+
+Prior Probability {clinical medicine=0.6941544885177453, biomedical research=0.10125260960334025, chemistry=0.05427974947807932, agriculture fisheries & forestry=0.04906054279749477, engineering=0.04070981210855949, biology=0.0208768267223382, public health & health services=0.014613778705636737, physics & astronomy=0.0104384133611691, information & communication technologies=0.00939457202505219, general science & technology=0.00521920668058455}
+Posterior Probability {clinical medicine=0.28726263519611445, communication & textual studies=0.23099767331838908, mathematics & statistics=0.2277285359871704, psychology & cognitive sciences=0.1370046255672236, information & communication technologies=0.11700652993110247, chemistry=0.0}
+Final result {clinical medicine=0.9945176806234183, information & communication technologies=0.005482319376581656, mathematics & statistics=0.0}
+Reverse citation clinical medicine clinical medicine clinical medicine 
+Precision: 0.9318181818181818
+######################### Patent ###############################
+The present invention relates to new arylaminoalcohol derivatives of formula (I), and to a method for the preparation of such compounds: I The invention also relates to the use of these compounds as medicaments, and in particular for the prevention and/or the treatment of parasitic diseases caused by apicomplexan parasites such as malaria and toxoplasmosis. Finally, the invention relates to pharmaceutical compositions containing such compounds of formula (I) as active principles. ##STR00001##
+compound chemistry N gram 1 0.6745335106471274
+medicament chemistry N gram 1 0.571512491793082
+parasite biomedical research N gram 1 0.7333148972925594
+parasitic disease "clinical medicine" N gram 2 2.0
+disease caused "clinical medicine" N gram 2 1.2
+pharmaceutical composition "clinical medicine" N gram 2 1.3333333333333333
+
+Prior Probability {clinical medicine=0.45039096312024013, engineering=0.1811131034116878, chemistry=0.13528426404247387, biomedical research=0.111256159623348, agriculture fisheries & forestry=0.031543912543460485, biology=0.026523089333892465, information & communication technologies=0.022174644052644153, physics & astronomy=0.0192316266710915, general science & technology=0.0108323583477112, public health & health services=0.008000243816954425, mathematics & statistics=0.003649635036496352}
+Posterior Probability {clinical medicine=0.6960785246512161, chemistry=0.19132313656364874, biomedical research=0.11259833878513505, enabling & strategic technologies=0.0}
+Final result {clinical medicine=0.8908544142559377, chemistry=0.07354846422989744, biomedical research=0.0355971215141648, enabling & strategic technologies=0.0}
+Reverse citation chemistry biomedical research chemistry chemistry 
+Precision: 0.9333333333333333
+######################### Patent ###############################
+According to the invention, there is provided seed and plants of the corn variety designated CV589782. The invention thus relates to the plants, seeds and tissue cultures of the variety CV589782, and to methods for producing a corn plant produced by crossing a corn plant of variety CV589782 with itself or with another corn plant, such as a plant of another variety. The invention further relates to corn seeds and plants produced by crossing plants of variety CV589782 with plants of another variety, such as another inbred line. The invention further relates to the inbred and hybrid genetic complements of plants of variety CV589782.
+crossing earth & environmental sciences N gram 1 1.0
+seed biology N gram 1 0.6413779177147055
+plant biology N gram 1 0.5634682559835904
+corn agriculture, fisheries & forestry N gram 1 0.5146917811373289
+tissue culture "biology" N gram 2 1.0
+tissue culture "engineering" N gram 2 1.0
+
+Prior Probability {biology=0.3910614525139665, general science & technology=0.1564245810055866, engineering=0.13966480446927373, chemistry=0.1340782122905028, agriculture fisheries & forestry=0.07262569832402234, information & communication technologies=0.06145251396648045, earth & environmental sciences=0.027932960893854747, clinical medicine=0.01675977653631285}
+Posterior Probability {biology=0.46718401569065626, earth & environmental sciences=0.21188276934332093, engineering=0.21188055344026527, agriculture fisheries & forestry=0.10905266152575749, chemistry=0.0}
+Final result {biology=0.8079375063903411, engineering=0.1308648047585872, agriculture fisheries & forestry=0.03502445417558294, earth & environmental sciences=0.026173234675488717, chemistry=0.0}
+Reverse citation agriculture fisheries & forestry biology biomedical research biology biology biomedical research biomedical research biology biomedical research biomedical research biomedical research biology biology biology biomedical research biology 
+Precision: 0.9347826086956522
+######################### Patent ###############################
+A demographics analysis trains classifier models for predicting demographic attribute values of videos and users not already having known demographics. In one embodiment, the demographics analysis system trains classifier models for predicting demographics of videos using video features such as demographics of video uploaders, textual metadata, and/or audiovisual content of videos. In one embodiment, the demographics analysis system trains classifier models for predicting demographics of users (e.g., anonymous users) using user features based on prior video viewing periods of users. For example, viewing-period based user features can include individual viewing period statistics such as total videos viewed. Further, the viewing-period based features can include distributions of values over the viewing period, such as distributions in demographic attribute values of video uploaders, and/or distributions of viewings over hours of the day, days of the week, and the like.
+classifier information & communication technologies N gram 1 0.6967979583322677
+prior mathematics & statistics N gram 1 0.5947988511107472
+statistic mathematics & statistics N gram 1 0.7656474485818335
+audiovisual communication & textual studies N gram 1 0.8461529476352337
+metadata social sciences N gram 1 1.0
+embodiment philosophy & theology N gram 1 0.7503314550878356
+textual historical studies N gram 1 0.5230090633147392
+viewing visual & performing arts N gram 1 0.628404212145161
+demographic analysi "social sciences" N gram 2 2.0
+day week "psychology & cognitive sciences" N gram 2 2.0
+
+Prior Probability {information & communication technologies=0.5199891806049575, engineering=0.30515801888982796, physics & astronomy=0.0584177679541592, clinical medicine=0.042295476285557736, psychology & cognitive sciences=0.02292156170769989, mathematics & statistics=0.02100727174791274, built environment & design=0.014824428615210305, public health & health services=0.005409697521290527, economics & business =0.004039859951521681, chemistry=0.0035128207509496005, earth & environmental sciences=0.0016159439806086725, biomedical research=8.079719903043362E-4}
+Posterior Probability {social sciences=0.3059560149121771, psychology & cognitive sciences=0.20396703160945895, mathematics & statistics=0.13874986381963392, communication & textual studies=0.08629434495375364, philosophy & theology=0.07652969391757472, information & communication technologies=0.07106452145711943, visual & performing arts=0.06409154604620014, historical studies=0.053346983284082196, chemistry=0.0}
+Final result {information & communication technologies=0.827012972480693, psychology & cognitive sciences=0.10463316400283774, mathematics & statistics=0.06523300689849999, communication & textual studies=0.0031208566179691793, chemistry=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies information & communication technologies information & communication technologies information & communication technologies information & communication technologies information & communication technologies psychology & cognitive sciences 
+Precision: 0.9361702127659575
+######################### Patent ###############################
+In accordance with the purpose(s) of the present disclosure, as embodied and broadly described herein, embodiments of the present disclosure provide for silver nanowires, methods of making silver nanowires, core-shell nanostructures, methods of making core-shell nanostructures, core-frame nanostructures, methods of making core-frame nanostructures, and the like.
+nanowire enabling & strategic technologies N gram 1 0.8957491719110509
+nanostructure enabling & strategic technologies N gram 1 0.9590371845944361
+embodiment philosophy & theology N gram 1 0.7503314550878356
+embodiment provide "mathematics & statistics" N gram 2 1.0
+embodiment provide "engineering" N gram 2 1.0
+
+Prior Probability {engineering=0.4811217008797653, chemistry=0.3676686217008798, clinical medicine=0.06048387096774195, physics & astronomy=0.055443548387096794, earth & environmental sciences=0.025201612903225812, information & communication technologies=0.010080645161290322}
+Posterior Probability {enabling & strategic technologies=0.40276616410002003, mathematics & statistics=0.21715542325582035, engineering=0.21714752990936814, philosophy & theology=0.1629308827347915, chemistry=0.0}
+Final result {engineering=1.0, enabling & strategic technologies=0.0}
+Reverse citation chemistry physics & astronomy chemistry engineering engineering chemistry engineering engineering engineering physics & astronomy enabling & stra
+Precision: 0.9375
+######################### Patent ###############################
+A method for increasing efficiency in emulsion production for a steam-assisted gravity drainage (SAGD) oil well system includes generating a causal model of the SAGD oil well system and training the causal model of the SAGD oil well system utilizing historical time series data relating to one or more SAGD oil wells at one or more SAGD production sites of the SAGD oil well system. The historical time series data is obtained from a plurality of sensors in the SAGD oil well system. The method also includes utilizing the causal model to determine a forecast emulsion production and a forecast set of control parameters associated with one or more of the SAGD production sites of the SAGD oil well system. The method further includes adjusting a set of controls of the SAGD oil well system based on the forecast emulsion production and the forecast set of control parameters and subject to one or more constraints associated with the SAGD oil well system.
+gravity earth & environmental sciences N gram 1 0.5459082227865206
+forecast earth & environmental sciences N gram 1 0.7531099125445082
+utilizing psychology & cognitive sciences N gram 1 0.5396778809113255
+steam engineering N gram 1 0.5339006401882944
+generating engineering N gram 1 0.5369903632320238
+serie biomedical research N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+parameter mathematics & statistics N gram 1 0.662098202981484
+plurality communication & textual studies N gram 1 0.702209051562583
+historical time "historical studies" N gram 2 2.0
+increasing efficiency "engineering" N gram 2 2.0
+system include "information & communication technologies" N gram 2 2.0
+include generating "psychology & cognitive sciences" N gram 2 1.5
+control parameter "psychology & cognitive sciences" N gram 2 2.0
+
+Prior Probability {information & communication technologies=0.4358004453604244, engineering=0.2681754380287643, physics & astronomy=0.06902783199273506, clinical medicine=0.06867237288924036, general science & technology=0.040517281481136896, mathematics & statistics=0.03356282271944922, earth & environmental sciences=0.02873606226146822, psychology & cognitive sciences=0.025817555938037858, built environment & design=0.019363166953528393, economics & business =0.0064543889845094645, communication & textual studies=0.0025817555938037863, chemistry=0.0012908777969018932}
+Posterior Probability {psychology & cognitive sciences=0.2614794506500915, engineering=0.19877357314900207, historical studies=0.12945510443253527, information & communication technologies=0.12945270886691718, mathematics & statistics=0.0865812672292174, earth & environmental sciences=0.08408035883471507, biomedical research=0.06472606123554216, communication & textual studies=0.04545147560197948, chemistry=0.0}
+Final result {information & communication technologies=0.46243978507381667, engineering=0.43695229179231054, psychology & cognitive sciences=0.055336166417502115, mathematics & statistics=0.02381983754424825, earth & environmental sciences=0.019805152493071236, communication & textual studies=9.618768937976175E-4, biomedical research=6.848897852535971E-4, chemistry=0.0}
+Reverse citation engineering engineering engineering information & communication technologies 
+Precision: 0.9387755102040817
+######################### Patent ###############################
+"A method and a plant to remove metals by biosorption from mining or industrial effluents comprising: (a) subject the effluent to at least one first stage of pre-treatment, selecting among: precipitation by pH rising, solvent extraction or solvent extraction on emulsified membranes in order to reduce its load of metals to a concentration level that allows it to be treated by the next stage of biosorption, and (b) subject the liquid that has been previously in the stage of pre-treatment to a second stage of continuous metals removal by biosorption. To perform the continuous metals removal by biosorption is supplied a group of reactors, constituted for at least one, or at least two or at least three fixed bed bioreactors, which packing material has been colonized with a biofilm formed by a bacterial culture or a mixture of microorganisms with the capacity of binding metals by biosorption; pre-treated water is led to the group of bioreactors, the treated effluent comes from this last one and is led to the discharge of the plant."
+solvent chemistry N gram 1 0.8277818733561347
+extraction chemistry N gram 1 0.6520004980923954
+reactor chemistry N gram 1 0.7348079799750941
+mixture chemistry N gram 1 0.6807471025208582
+precipitation earth & environmental sciences N gram 1 0.7534204919120704
+biofilm earth & environmental sciences N gram 1 1.0
+plant biology N gram 1 0.5634682559835904
+effluent economics & business  N gram 1 1.0
+bacterial biomedical research N gram 1 0.6165217159256849
+remove clinical medicine N gram 1 1.0
+bacterial culture "biomedical research" N gram 2 2.0
+
+Prior Probability {engineering=0.38368177903061623, chemistry=0.2945736434108527, biomedical research=0.1292772688121525, physics & astronomy=0.05285412262156447, biology=0.05207109858272648, information & communication technologies=0.04713804713804714, clinical medicine=0.0202020202020202, mathematics & statistics=0.0101010101010101, agriculture fisheries & forestry=0.006734006734006734, general science & technology=0.003367003367003367}
+Posterior Probability {chemistry=0.2945814410914932, biomedical research=0.2662059544825336, earth & environmental sciences=0.1783966362485154, clinical medicine=0.10174373473087887, economics & business =0.10173759713518522, biology=0.05733463631139362, enabling & strategic technologies=0.0}
+Final result {chemistry=0.6777611471025023, biomedical research=0.26879261615662964, biology=0.023317994891595965, clinical medicine=0.016053874988689473, earth & environmental sciences=0.014074366860582591, enabling & strategic technologies=0.0}
+Reverse citation engineering engineering biomedical research engineering engineering engineering 
+Precision: 0.94
+######################### Patent ###############################
+"A material with cationic exchanger properties is introduced into aqueous media, where the equilibriums of carbon dioxide dissolution take place. A cationic exchanger material x/nM.sup.+nE.sub.x.sup.- is used to capture hydronium cations (H.sub.3O.sup.+) according to: x/nM.sup.+nE.sub.x.sup.-(s)+xH.sub.3O.sup.+(aq)=xH.sub.3O.sup.+E.sub.x.su- p.-(s)+x/nM.sup.+n(aq) where ""x"" stands for molar amount of the anionic centers of charge of the cationic exchanger material E.sub.x.sup.- balanced by x/n molar amount of metal M, ""n"" stands for the metal valence, and M is selected from the group consisting of 1A and/or 2A of the periodic table of elements. This capture of the hydronium cations, H.sub.3O.sup.+, shifts certain reaction equilibriums to the right, according to Le Chatelier's principle, producing more bicarbonate, HCO.sub.3.sup.-, and/or carbonate, CO.sub.3.sup.=, than would otherwise be obtained."
+valence chemistry N gram 1 0.6672758910373333
+media earth & environmental sciences N gram 1 0.6958158835055903
+carbonate earth & environmental sciences N gram 1 0.8817919325434
+stand agriculture, fisheries & forestry N gram 1 0.5542621835423601
+charge engineering N gram 1 0.5899157530743264
+balanced economics & business  N gram 1 0.5489932635428912
+exchanger clinical medicine N gram 1 0.5587704545105997
+bicarbonate clinical medicine N gram 1 1.0
+carbon dioxide "clinical medicine" N gram 2 1.2142857142857142
+
+Prior Probability {chemistry=0.537126099706745, engineering=0.2570087976539589, physics & astronomy=0.14457478005865101, clinical medicine=0.038709677419354833, earth & environmental sciences=0.016129032258064512, information & communication technologies=0.006451612903225805}
+Posterior Probability {clinical medicine=0.41319916132254997, earth & environmental sciences=0.23506533206077454, chemistry=0.09943319149948153, engineering=0.08790439449207421, agriculture fisheries & forestry=0.08259686856410696, economics & business =0.08180105206101285, enabling & strategic technologies=0.0}
+Final result {chemistry=0.5575747706668039, engineering=0.2358598706635705, clinical medicine=0.16698384730813517, earth & environmental sciences=0.0395815113614905, enabling & strategic technologies=0.0}
+Reverse citation biology earth & environmental sciences chemistry chemistry chemistry earth & environmental sciences 
+Precision: 0.9411764705882353
+######################### Patent ###############################
+A transceiver for fiber optic communications.
+transceiver enabling & strategic technologies N gram 1 0.5032123302533201
+optic physics & astronomy N gram 1 0.7319599983533529
+communication communication & textual studies N gram 1 0.5769578841464347
+optic communication "physics & astronomy" N gram 2 1.0
+fiber optic "engineering" N gram 2 1.0
+optic communication "engineering" N gram 2 1.0
+fiber optic communication "engineering" N gram 3 3.0
+
+Prior Probability {information & communication technologies=0.4760869565217391, engineering=0.408695652173913, physics & astronomy=0.09130434782608696, psychology & cognitive sciences=0.010869565217391304, public health & health services=0.008695652173913044, chemistry=0.004347826086956522}
+Posterior Probability {engineering=0.6400242774749806, physics & astronomy=0.22170043083546717, communication & textual studies=0.07385728403564377, enabling & strategic technologies=0.06441800765390857, chemistry=0.0}
+Final result {engineering=0.9281725803844587, physics & astronomy=0.07182741961554137, enabling & strategic technologies=0.0}
+Reverse citation engineering information & communication technologies information & communication technologies engineering physics & astronomy information & communication technologies 
+Precision: 0.9423076923076923
+######################### Patent ###############################
+The PFT1 (Phytochrome and Flowering Time 1) locus is described and identified. PFT1 acts in a light-quality pathway downstream of phyB that acts through modulation of FT transcription. Plants containing a truncated pft1 gene display an altered shade avoidance syndrome including an increase in time to flowering. The corresponding PFT1 gene has been isolated and characterized. Recombinant vectors, recombinant plants containing the PFT1 gene and methods of using the PFT1 gene to modulate a photosensitive trait, especially time to flowering, are described.
+downstream earth & environmental sciences N gram 1 1.0
+phytochrome biology N gram 1 1.0
+flowering biology N gram 1 0.7359604035789072
+plant biology N gram 1 0.5634682559835904
+modulate psychology & cognitive sciences N gram 1 1.0
+light physics & astronomy N gram 1 0.5017636055690443
+transcription biomedical research N gram 1 0.6051703897480638
+truncated biomedical research N gram 1 1.0
+
+Prior Probability {engineering=0.24963318082464805, biomedical research=0.2316996459816439, biology=0.1577827145811884, clinical medicine=0.15689216296222888, chemistry=0.09039993613354697, information & communication technologies=0.03763440860215054, general science & technology=0.03429449592300789, agriculture fisheries & forestry=0.026131794298634395, mathematics & statistics=0.008064516129032258, physics & astronomy=0.007467144563918757}
+Posterior Probability {biology=0.3589345934165996, biomedical research=0.25055369526835847, psychology & cognitive sciences=0.15609514782865883, earth & environmental sciences=0.15609122870558956, physics & astronomy=0.0783253347807935, chemistry=0.0}
+Final result {biomedical research=0.4981801387486856, biology=0.4859985429192602, earth & environmental sciences=0.010802320062510662, physics & astronomy=0.005018998269543592, chemistry=0.0}
+Reverse citation biomedical research biology biology 
+Precision: 0.9433962264150944
+######################### Patent ###############################
+Embodiments are directed to systems and methods configured to gather, transmit, share and process security related data between end users and security applications/devices across multiple platforms using blockchain open implementation as the backend and smart contracts integrated with artificial intelligence and behavior analysis using rule engines to enforce/implement data decisions. The system is designed to continuously predict, monitor, prevent, detect, response and mitigate cyber threats. The process includes a self-enforced adaptable engine that has a fast incident response time and makes quick smart decisions. This is a resilient system that is constantly capturing data, learning, tracking and enforcing. Computational power is maximized by leveraging smart contracts to validate transactions between network devices, share encrypted and protected information about their functions, events across the network of nodes and make smart swarm decisions.
+contract built environment & design N gram 1 0.5224900758131823
+enforce economics & business  N gram 1 0.7812384029833185
+implement economics & business  N gram 1 0.7096375845464318
+artificial information & communication technologies N gram 1 0.5772285331296191
+intelligence information & communication technologies N gram 1 0.5953710419831576
+mitigate information & communication technologies N gram 1 1.0
+node information & communication technologies N gram 1 0.5629544040610629
+swarm information & communication technologies N gram 1 0.5280543810433848
+detect biomedical research N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+blockchain mathematics & statistics N gram 1 0.7346918389771251
+validate clinical medicine N gram 1 1.0
+adaptable communication & textual studies N gram 1 0.7033625368798
+embodiment philosophy & theology N gram 1 0.7503314550878356
+cyber historical studies N gram 1 0.7229416199011642
+computational power "engineering" N gram 2 1.0
+artificial intelligence "information & communication technologies" N gram 2 1.5595238095238095
+behavior analysi "psychology & cognitive sciences" N gram 2 1.2
+
+Prior Probability {information & communication technologies=0.5419387416770423, engineering=0.25942930222486876, clinical medicine=0.059663089373680527, physics & astronomy=0.04374120337790289, mathematics & statistics=0.030612244897959197, psychology & cognitive sciences=0.02847483489416988, built environment & design=0.01963169219942619, economics & business =0.00588697017268446, public health & health services=0.003941563362745631, chemistry=0.0031481757159097083, earth & environmental sciences=0.002354788069073784, biomedical research=0.001177394034536892}
+Posterior Probability {information & communication technologies=0.3298260372043576, economics & business =0.10195380258405438, mathematics & statistics=0.09642883905514728, psychology & cognitive sciences=0.08206157870889742, biomedical research=0.06838600416826697, engineering=0.06838556642085986, clinical medicine=0.06837992492694814, philosophy & theology=0.05131383454695353, historical studies=0.049436267386428534, communication & textual studies=0.04810042767877184, built environment & design=0.03572771731931436, chemistry=0.0}
+Final result {information & communication technologies=0.8620454029971854, engineering=0.08556151794464793, clinical medicine=0.01967566238863876, mathematics & statistics=0.01423629969525255, psychology & cognitive sciences=0.011269277858060108, built environment & design=0.0033826573727483026, economics & business =0.00289461140240249, communication & textual studies=5.462554329138293E-4, biomedical research=3.883149081507027E-4, chemistry=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.9444444444444444
+######################### Patent ###############################
+A modified Bacillus cereus phospholipase C enzyme is provided, as well as a method of using the modified phospholipase C enzyme in a method of treating vegetable oil. In certain embodiments, this method may comprise combining a vegetable oil with an modified phospholipase C enzyme comprising an amino acid sequence that is at least 85% identical to the amino acid sequence of SEQ ID NO:1, wherein the amino acid residue at position 66 is a Trp (W) or Tyr (Y), and maintaining the combination under conditions suitable for the modified phospholipase C enzyme to catalyze the hydrolysis of phospholipids in the oil to produce diacylglycerol and a water soluble phosphate.
+residue chemistry N gram 1 0.6991747318268281
+phosphate chemistry N gram 1 0.5530689039932751
+vegetable agriculture, fisheries & forestry N gram 1 0.7699189390211056
+modified engineering N gram 1 1.0
+amino biomedical research N gram 1 0.7034545041558424
+tyr biomedical research N gram 1 1.0
+phospholipid biomedical research N gram 1 0.9453834897435224
+embodiment philosophy & theology N gram 1 0.7503314550878356
+acid sequence "biomedical research" N gram 2 1.5714285714285714
+water soluble "clinical medicine" N gram 2 2.0
+amino acid sequence "biomedical research" N gram 3 2.1818181818181817
+
+Prior Probability {biomedical research=0.29700460829493086, biology=0.22183179723502305, engineering=0.1849654377880184, clinical medicine=0.1400921658986175, agriculture fisheries & forestry=0.08830645161290321, general science & technology=0.03686635944700461, chemistry=0.03093317972350231}
+Posterior Probability {biomedical research=0.5258504443261707, clinical medicine=0.1642724334948696, chemistry=0.10286448489651925, engineering=0.082141533888506, agriculture fisheries & forestry=0.06324060464657202, philosophy & theology=0.061630498747362296, enabling & strategic technologies=0.0}
+Final result {biomedical research=0.7687797899252072, clinical medicine=0.11328047601243589, engineering=0.07478765535639256, agriculture fisheries & forestry=0.027489381746717598, chemistry=0.015662696959246686, enabling & strategic technologies=0.0}
+Reverse citation mathematics & statistics biomedical research biomedical research 
+Precision: 0.9454545454545454
+######################### Patent ###############################
+The present invention relates to novel fluorinated 3,6-diaminoxanthene compounds derived from the basic structural formula (I) and to their uses as photostable fluorescent dyes, e.g. for immunostainings and spectroscopic and microscopic applications, in particular in conventional microscopy, stimulated emission depletion (STED) reversible saturable optically linear fluorescent transitions (RESOLFT) microscopy, and fluorescence correlation spectroscopy. The claimed compounds are also useful as molecular probes in various spectroscopic applications.
+compound chemistry N gram 1 0.6745335106471274
+spectroscopic chemistry N gram 1 0.6165770235136042
+spectroscopy chemistry N gram 1 0.6868459402171131
+reversible enabling & strategic technologies N gram 1 0.5526664273710488
+fluorescent biomedical research N gram 1 0.5232645847613565
+microscopy biomedical research N gram 1 0.7317129784901781
+fluorescence biomedical research N gram 1 0.7772649190710392
+compound derived "chemistry" N gram 2 2.0
+basic structural "chemistry" N gram 2 2.0
+structural formula "chemistry" N gram 2 2.0
+correlation spectroscopy "chemistry" N gram 2 2.0
+fluorescent dye "biomedical research" N gram 2 2.0
+emission depletion "biomedical research" N gram 2 2.0
+depletion sted "biomedical research" N gram 2 2.0
+stimulated emission depletion "biomedical research" N gram 3 3.0
+emission depletion sted "biomedical research" N gram 3 3.0
+
+Prior Probability {clinical medicine=0.3172281828121711, engineering=0.24241740590211328, chemistry=0.1278571940090803, information & communication technologies=0.10492305495297613, biomedical research=0.10301937833281408, physics & astronomy=0.03536912407410346, agriculture fisheries & forestry=0.01895401559959388, biology=0.015732283080714525, earth & environmental sciences=0.010314875135722042, general science & technology=0.008998351396443695, mathematics & statistics=0.008686210640608037, public health & health services=0.005957035898621586, built environment & design=5.428881650380023E-4}
+Posterior Probability {biomedical research=0.5712762077489977, chemistry=0.4062226169492804, enabling & strategic technologies=0.0225011753017219, earth & environmental sciences=0.0}
+Final result {biomedical research=0.531203056205013, chemistry=0.46879694379498704, enabling & strategic technologies=0.0}
+Reverse citation physics & astronomy biomedical research biomedical research engineering 
+Precision: 0.9464285714285714
+######################### Patent ###############################
+Devices incorporating a single to a few-layer MoS.sub.2 channels in combination with optimized substrate, dielectric, contact and electrode materials and configurations thereof, exhibit light emission, photoelectric effect, and superconductivity, respectively.
+optimized enabling & strategic technologies N gram 1 0.6391600663105544
+exhibit enabling & strategic technologies N gram 1 0.6112998535612708
+superconductivity enabling & strategic technologies N gram 1 1.0
+light physics & astronomy N gram 1 0.5017636055690443
+light emission "information & communication technologies" N gram 2 2.0
+electrode material "enabling & strategic technologies" N gram 2 2.0
+
+Prior Probability {physics & astronomy=0.664633669559778, engineering=0.1782130476711757, information & communication technologies=0.07634164777021919, chemistry=0.05047306278833372, biomedical research=0.008848750228060573, clinical medicine=0.007584643052623348, biology=0.006320535877186123, mathematics & statistics=0.003792321526311674, agriculture fisheries & forestry=0.0025282143508744493, general science & technology=0.0012641071754372246}
+Posterior Probability {enabling & strategic technologies=0.6294896360523732, information & communication technologies=0.29619886489040775, physics & astronomy=0.07431149905721922, chemistry=0.0}
+Final result {physics & astronomy=0.6859498901017828, information & communication technologies=0.31405010989821736, enabling & strategic technologies=0.0}
+Reverse citation engineering physics & astronomy physics & astronomy physics & astronomy engineering chemistry 
+Precision: 0.9473684210526315
+######################### Patent ###############################
+In one implementation, an example system may include a policy engine. The policy engine may receive a context of an application to request a set of network traffic and provide a policy rule to a network device of a network path. In another implementation, an example system may identify a party and a requested behavior of the service and maintain a context to determine a policy rule to regulate a set of network traffic associated with the service based on the party and the requested behavior. In another implementation, an example method may comprise receiving a service request and an authentication, identifying a party, identifying a behavior, and deploying a policy to a network device of a network based on the party and the behavior.
+comprise receiving "information & communication technologies" N gram 2 2.0
+method comprise receiving "information & communication technologies" N gram 3 3.0
+
+Prior Probability {information & communication technologies=0.47608695652173916, engineering=0.40869565217391296, physics & astronomy=0.09130434782608697, psychology & cognitive sciences=0.010869565217391304, public health & health services=0.008695652173913045, chemistry=0.004347826086956523}
+Posterior Probability {information & communication technologies=1.0, chemistry=0.0}
+Final result {information & communication technologies=1.0, chemistry=0.0}
+Reverse citation engineering information & communication technologies information & communication technologies 
+Precision: 0.9482758620689655
+######################### Patent ###############################
+An alloy composition that includes about 1 to about 9 atomic percent aluminum (Al), about 25 to about 33 atomic percent titanium (Ti), about 10 to about 33 atomic percent vanadium (V), about 5 to about 10 atomic percent zirconium (Zr) and about 25 to about 33 atomic percent niobium (Nb).
+titanium enabling & strategic technologies N gram 1 0.5217063972965689
+vanadium earth & environmental sciences N gram 1 0.7589880970501386
+alloy engineering N gram 1 0.6268786901540135
+aluminum engineering N gram 1 0.6028622921774949
+
+Prior Probability {engineering=0.5151515151515152, earth & environmental sciences=0.4040404040404041, physics & astronomy=0.08080808080808083}
+Posterior Probability {engineering=0.4898238796137095, earth & environmental sciences=0.30234112524094386, enabling & strategic technologies=0.20783499514534676, chemistry=0.0}
+Final result {engineering=0.6738029674858019, earth & environmental sciences=0.3261970325141981, enabling & strategic technologies=0.0}
+Reverse citation engineering engineering engineering 
+Precision: 0.9491525423728814
+######################### Patent ###############################
+Extra-cellular product anti-biofouling against marine invertebrates which are common to the biofouling, which contains an extract of the supernatant of an Alteromonas sp. Culture. Anti-biofouling composition, comprising said extra-cellular product and a biopolymer. The use of said extra-cellular product for preparing a composition useful for inhibiting the marine micro- and macro-biofouling, and the process for preparing said extra-cellular product.
+biopolymer chemistry N gram 1 0.7012087326912639
+marine biology N gram 1 0.6800111510175285
+anti visual & performing arts N gram 1 1.0
+composition comprising "clinical medicine" N gram 2 1.4
+
+Prior Probability {biology=0.3910614525139665, general science & technology=0.1564245810055866, engineering=0.13966480446927373, chemistry=0.1340782122905028, agriculture fisheries & forestry=0.07262569832402234, information & communication technologies=0.06145251396648045, earth & environmental sciences=0.027932960893854747, clinical medicine=0.01675977653631285}
+Posterior Probability {clinical medicine=0.3702312529497961, visual & performing arts=0.26446643472678616, chemistry=0.18545464896216973, biology=0.17984766336124794, enabling & strategic technologies=0.0}
+Final result {biology=0.6935913626603101, chemistry=0.24521656405937442, clinical medicine=0.06119207328031544, enabling & strategic technologies=0.0}
+Reverse citation biology engineering biology 
+Precision: 0.95
+######################### Patent ###############################
+Methods and apparatus for establishing a communication link between a first user equipment and at least one other user equipment in a radio communication cell using a radio frequency spectrum divided into a plurality of channels. The first user equipment comprises a tuner configured to tune a communication unit to channels of a channel sequence vector in order. The channel sequence vector comprises at least a partial vectorization of a symmetric Toeplitz matrix formed from a set of the plurality of channels. The communication unit is configured, at each channel, to receive link data for establishing a communication link with the at least one other user equipment. A link establisher is configured to establish a communication link with the at least one other user equipment over the tuned channel if the link data is received.
+tuner engineering N gram 1 1.0
+spectrum physics & astronomy N gram 1 0.5320963963494301
+symmetric information & communication technologies N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+communication communication & textual studies N gram 1 0.5769578841464347
+plurality communication & textual studies N gram 1 0.702209051562583
+tune visual & performing arts N gram 1 1.0
+frequency spectrum "engineering" N gram 2 1.3333333333333333
+communication link "information & communication technologies" N gram 2 2.0
+user equipment "information & communication technologies" N gram 2 1.5
+receive data "information & communication technologies" N gram 2 2.0
+
+Prior Probability {information & communication technologies=0.47608695652173916, engineering=0.40869565217391296, physics & astronomy=0.09130434782608697, psychology & cognitive sciences=0.010869565217391304, public health & health services=0.008695652173913045, chemistry=0.004347826086956523}
+Posterior Probability {information & communication technologies=0.5275897167728664, engineering=0.1893958838686151, communication & textual studies=0.10383090931305745, visual & performing arts=0.0811661054130277, mathematics & statistics=0.05482803422974144, physics & astronomy=0.043189350402691895, chemistry=0.0}
+Final result {information & communication technologies=0.7553624429918004, engineering=0.2327787524095852, physics & astronomy=0.011858804598614473, mathematics & statistics=0.0}
+Reverse citation mathematics & statistics information & communication technologies information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.9508196721311475
+######################### Patent ###############################
+A magnetic field sensor includes a circular vertical Hall (CVH) sensing element to produce a signal representing an external magnetic field as detected by the CVH sensing element, a sigma-delta analog-to-digital converter to generate a converted signal, modulators to produce quadrature modulated signals from the converted signal, and a processor to produce an estimated angle of the external magnetic field using the quadrature modulated signals. An arctangent function may be used to calculate the estimated angle. A sliding window integration scheme may be used over one or more CVH cycles.
+converter enabling & strategic technologies N gram 1 0.7746174119406533
+modulator enabling & strategic technologies N gram 1 0.7654589232740768
+sigma built environment & design N gram 1 0.8284537968892955
+window public health & health services N gram 1 0.5408843639258472
+angle physics & astronomy N gram 1 0.6383172953811443
+quadrature information & communication technologies N gram 1 1.0
+processor information & communication technologies N gram 1 0.8539857608384828
+modulated biomedical research N gram 1 1.0
+calculate biomedical research N gram 1 1.0
+generate clinical medicine N gram 1 1.0
+field sensor "engineering" N gram 2 2.0
+sensor include "engineering" N gram 2 2.0
+circular vertical "engineering" N gram 2 2.0
+vertical hall "engineering" N gram 2 2.0
+cvh sensing "engineering" N gram 2 2.0
+signal representing "engineering" N gram 2 2.0
+sigma delta "engineering" N gram 2 2.0
+delta analog "engineering" N gram 2 2.0
+digital converter "engineering" N gram 2 1.3333333333333333
+quadrature modulated "engineering" N gram 2 2.0
+estimated angle "engineering" N gram 2 2.0
+arctangent function "engineering" N gram 2 2.0
+sliding window "engineering" N gram 2 2.0
+window integration "engineering" N gram 2 2.0
+integration scheme "engineering" N gram 2 2.0
+magnetic field sensor "engineering" N gram 3 3.0
+field sensor include "engineering" N gram 3 3.0
+circular vertical hall "engineering" N gram 3 3.0
+cvh sensing element "engineering" N gram 3 3.0
+sigma delta analog "engineering" N gram 3 3.0
+sliding window integration "engineering" N gram 3 3.0
+window integration scheme "engineering" N gram 3 3.0
+
+Prior Probability {engineering=0.2071713147410358, biomedical research=0.19123505976095612, chemistry=0.17131474103585656, physics & astronomy=0.14342629482071712, information & communication technologies=0.13545816733067725, earth & environmental sciences=0.07569721115537847, mathematics & statistics=0.06374501992031871, public health & health services=0.007968127490039839, biology=0.003984063745019919}
+Posterior Probability {engineering=0.8569497736549082, biomedical research=0.0340514748466515, information & communication technologies=0.03156648949519811, enabling & strategic technologies=0.026222138790573463, clinical medicine=0.017026455920281208, built environment & design=0.014106042079557018, physics & astronomy=0.010868965328774145, public health & health services=0.009208659884056508, chemistry=0.0}
+Final result {engineering=0.9173105453659511, biomedical research=0.03364610829537414, information & communication technologies=0.0220934164016092, clinical medicine=0.01822574443221924, physics & astronomy=0.008054681614177496, public health & health services=3.7912646602136443E-4, built environment & design=2.9037742464733507E-4, enabling & strategic technologies=0.0}
+Reverse citation information & communication technologies engineering engineering chemistry 
+Precision: 0.9516129032258065
+######################### Patent ###############################
+An inbred corn line designated IT7EE42 is disclosed. The invention relates to the plants and seeds of inbred corn line IT7EE42 and methods for producing a corn plant produced by crossing the inbred corn line IT7EE42 with itself or with another corn plant. The invention also relates to methods for producing a corn plant containing in its genetic material one or more transgenes and to the transgenic corn plants and plant parts produced by those methods. The invention also relates to corn cultivars and plant parts derived from inbred corn line IT7EE42 and to methods for producing other corn cultivars, lines, or plant parts derived from inbred corn line IT7EE42, and to the corn plants and parts derived from use of those methods. The invention further relates to hybrid corn seeds, plants, and plant parts produced by crossing inbred corn line IT7EE42 with another corn cultivar.
+transgenic enabling & strategic technologies N gram 1 0.9395956599048249
+crossing earth & environmental sciences N gram 1 1.0
+plant biology N gram 1 0.5634682559835904
+seed biology N gram 1 0.6413779177147055
+transgene biology N gram 1 0.6663637578511292
+corn agriculture, fisheries & forestry N gram 1 0.5146917811373289
+cultivar agriculture, fisheries & forestry N gram 1 1.0
+genetic material "biomedical research" N gram 2 1.2727272727272727
+
+Prior Probability {biology=0.3910614525139665, general science & technology=0.1564245810055866, engineering=0.13966480446927373, chemistry=0.1340782122905028, agriculture fisheries & forestry=0.07262569832402234, information & communication technologies=0.06145251396648045, earth & environmental sciences=0.027932960893854747, clinical medicine=0.01675977653631285}
+Posterior Probability {biology=0.2836043340815108, agriculture fisheries & forestry=0.22956301154581277, biomedical research=0.19287783118304253, earth & environmental sciences=0.1515559723452484, enabling & strategic technologies=0.14239885084438544, chemistry=0.0}
+Final result {biology=0.6986226119548212, biomedical research=0.1696891433594317, agriculture fisheries & forestry=0.10502120580364264, earth & environmental sciences=0.026667038882104508, enabling & strategic technologies=0.0}
+Reverse citation biology biomedical research biology 
+Precision: 0.9523809523809523
+######################### Patent ###############################
+Pseudonym digital certificates (160p) are generated for devices (110/150) by a Pseudonym Certificate Authority (PCA), which communicates with devices via another entity--registration authority (RA)--so that the PCA and RA cannot associate certificates with devices. Each certificate is associated with a public signature key, and with a public encryption key used by PCA to encrypt the certificate to hide it from the RA. Both keys are derived by PCA from a single key. For example, the signature key can be derived from the public encryption key rather than generated independently. However, high security is obtained even when the PCA does not sign the encrypted certificate. Reduced bandwidth and computational costs are obtained as a result. Other embodiments are also provided.
+doe public health & health services N gram 1 0.8012919782310517
+sign communication & textual studies N gram 1 0.6331770832142994
+encryption social sciences N gram 1 1.0
+hide general science & technology N gram 1 0.711424983576115
+embodiment philosophy & theology N gram 1 0.7503314550878356
+
+Prior Probability {information & communication technologies=0.47608695652173916, engineering=0.40869565217391296, physics & astronomy=0.09130434782608698, psychology & cognitive sciences=0.010869565217391308, public health & health services=0.008695652173913047, chemistry=0.0043478260869565235}
+Posterior Probability {social sciences=0.2566504626346397, public health & health services=0.2056583336200669, philosophy & theology=0.19257643501654959, general science & technology=0.18259157244309965, communication & textual studies=0.16252319628564418, chemistry=0.0}
+Final result {public health & health services=1.0, chemistry=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies engineering information & communication technologies information & communication technologies 
+Precision: 0.9375
+######################### Patent ###############################
+A multiple robot control architecture including a plurality of robotic agricultural machines including a first and second robotic agricultural machine. Each robotic agricultural machine including at least one controller configured to implement a plurality of finite state machines within an individual robot control architecture (IRCA) and a global information module (GIM) communicatively coupled to the IRCA. The GIMs of the first and second robotic agricultural machines being configured to cooperate to cause said first robotic agricultural machine and said second agricultural machine to perform at least one agricultural task.
+agricultural agriculture, fisheries & forestry N gram 1 0.6848767472408114
+architecture built environment & design N gram 1 0.6601511916153332
+controller engineering N gram 1 0.9364282124728335
+gim engineering N gram 1 1.0
+implement economics & business  N gram 1 0.7096375845464318
+cooperate clinical medicine N gram 1 1.0
+plurality communication & textual studies N gram 1 0.702209051562583
+perform task "engineering" N gram 2 1.5
+communicatively coupled "information & communication technologies" N gram 2 1.3333333333333333
+agricultural machine "agriculture fisheries & forestry" N gram 2 2.0
+
+Prior Probability {engineering=0.5555555555555556, information & communication technologies=0.2222222222222222, general science & technology=0.19444444444444445, clinical medicine=0.027777777777777776}
+Posterior Probability {engineering=0.3264465259024011, agriculture fisheries & forestry=0.2550506133537504, information & communication technologies=0.12665789750647163, clinical medicine=0.09499801039931569, economics & business =0.06741717542616041, communication & textual studies=0.06671355181923908, built environment & design=0.0627162255926618, chemistry=0.0}
+Final result {engineering=0.8548862942359099, information & communication technologies=0.13267483896261958, clinical medicine=0.01243886680147054, chemistry=0.0}
+Reverse citation engineering engineering engineering agriculture fisheries & forestry engineering 
+Precision: 0.9384615384615385
+######################### Patent ###############################
+Isolated V.sub.HH monoclonal antibodies are disclosed that specifically bind to a Norovirus polypeptide. In some embodiments, the Norovirus is a Genogroup I Norovirus or a Genogroup II Norovirus. In other embodiments, the Norovirus is Norwalk or MD2004 virus. In some embodiments, the monoclonal antibodies specifically bind VP1. Also disclosed are compositions including the disclosed antibodies, nucleic acids encoding these antibodies, expression vectors including the nucleic acids, and isolated host cells that express the nucleic acids. The antibodies and compositions disclosed herein can be used for detecting the presence of a Norovirus in a biological sample, or detecting a Norovirus infection. Also disclosed are methods of treating and/or preventing a NoV infection.
+nucleic biomedical research N gram 1 0.5757407436040105
+host biomedical research N gram 1 0.5214887249199197
+sample mathematics & statistics N gram 1 0.5654339462086461
+monoclonal clinical medicine N gram 1 0.590884098363764
+encoding communication & textual studies N gram 1 0.6248882230245549
+embodiment philosophy & theology N gram 1 0.7503314550878356
+viru historical studies N gram 1 1.0
+nucleic acid "biomedical research" N gram 2 1.1162790697674418
+expression vector "biomedical research" N gram 2 2.0
+host cell "biomedical research" N gram 2 1.8461538461538463
+biological sample "biomedical research" N gram 2 1.4
+monoclonal antibodie "clinical medicine" N gram 2 1.3333333333333333
+cell expres "clinical medicine" N gram 2 2.0
+
+Prior Probability {clinical medicine=0.2704382281774404, engineering=0.24976386952788154, chemistry=0.17639911401474598, biomedical research=0.15003997495474397, biology=0.04701230334107814, physics & astronomy=0.037448516294578585, general science & technology=0.017969968830427736, agriculture fisheries & forestry=0.017110498185047122, information & communication technologies=0.015605130463166337, earth & environmental sciences=0.007736156351791529, mathematics & statistics=0.006514657980456025, public health & health services=0.003554415754863892, built environment & design=4.0716612377850154E-4}
+Posterior Probability {biomedical research=0.5207637771467291, clinical medicine=0.27394574907311764, historical studies=0.06981166683757266, philosophy & theology=0.05238058449624022, communication & textual studies=0.043625180229617956, mathematics & statistics=0.039473042216722445, chemistry=0.0}
+Final result {biomedical research=0.5124372997948863, clinical medicine=0.4858762046455732, mathematics & statistics=0.0016864955595404393, chemistry=0.0}
+Reverse citation clinical medicine biomedical research biomedical research general science & technology 
+Precision: 0.9393939393939394
+######################### Patent ###############################
+A method in a first network node (110) for coordinating data transmissions between wireless devices (121, 122) and two or more antennas associated with at least one second network node (210, 310) in a wireless communication network (100) is provided. The wireless devices (121, 122) are served by the at least one second network node (210, 310) and the at least one second network node (210, 310) is configured to perform coordinated data transmission or reception. First, the first network node (110) identifies two or more groups of wireless devices based on mutual spatial correlation between the wireless devices (121, 122). Then, the first network node (110) selects a subset of wireless devices from two or more of the identified groups of wireless devices based on a criterion that relates to a data rate of each of the wireless devices. The first network node (110) then schedules wireless devices from the selected subset of wireless devices for the coordinated data transmission or reception of the at least second and third network node (210, 310). The first network node (110) then coordinates the data transmission or reception between the two or more antennas comprised in the at least one second network node (210, 310) and the scheduled wireless devices. A first network node and a computer program are also provided.
+comprised psychology & cognitive sciences N gram 1 1.0
+node information & communication technologies N gram 1 0.5629544040610629
+coordinating information & communication technologies N gram 1 1.0
+data mathematics & statistics N gram 1 0.6754631851131768
+communication communication & textual studies N gram 1 0.5769578841464347
+select social sciences N gram 1 0.5436907881475509
+wireles device "chemistry" N gram 2 1.0
+data transmission "engineering" N gram 2 1.3333333333333333
+network node "information & communication technologies" N gram 2 2.0
+wireles device "general science & technology" N gram 2 1.0
+
+Prior Probability {information & communication technologies=0.47608695652173927, engineering=0.40869565217391307, physics & astronomy=0.09130434782608697, psychology & cognitive sciences=0.010869565217391308, public health & health services=0.008695652173913045, chemistry=0.004347826086956523}
+Posterior Probability {information & communication technologies=0.367601800061976, engineering=0.13755877866851637, psychology & cognitive sciences=0.10317776821294765, general science & technology=0.10317494009049866, chemistry=0.10317013243160625, mathematics & statistics=0.06969672827857452, communication & textual studies=0.05952589974491782, social sciences=0.05609395251096259, enabling & strategic technologies=0.0}
+Final result {information & communication technologies=0.7517624645317552, engineering=0.24149328206156478, psychology & cognitive sciences=0.004817425724415713, chemistry=0.0019268276822643118, mathematics & statistics=0.0}
+Reverse citation information & communication technologies information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.9402985074626866
+######################### Patent ###############################
+The present invention relates to metabolic biomarker sets for assessing HIV. In preferred embodiments, the present invention relates to the use of biomarker sets for screening and/or diagnosing HIV infection, for prediction of immunologic response of a mammalian subject to antiretroviral therapy and/or prognosis of HIV disease progression, and for monitoring of HIV disease activity in a mammalian subject. In other embodiments, the invention relates to methods for screening and/or diagnosing HIV infection, for prediction of immunologic response of a mammalian subject to antiretroviral therapy and/or prognosis of HIV disease progression, and for monitoring of HIV disease activity in a mammalian subject, as well as to a kit adapted to carry out the methods. By employing the specific biomarkers and the method according to the present invention it becomes possible to more properly and reliably assess HIV. In particular, it becomes possible to screen for and diagnose HIV in a patient with high accuracy and predict early in advance the patient's therapeutic response to antiretroviral therapy.
+biomarker enabling & strategic technologies N gram 1 0.5013135569541662
+prognosi enabling & strategic technologies N gram 1 0.8303781880453711
+antiretroviral public health & health services N gram 1 0.5378448485167046
+immunologic clinical medicine N gram 1 1.0
+embodiment philosophy & theology N gram 1 0.7503314550878356
+carry historical studies N gram 1 0.6537712742573636
+antiretroviral therapy "biomedical research" N gram 2 2.0
+preferred embodiment "economics & business " N gram 2 1.3333333333333333
+disease progression "clinical medicine" N gram 2 1.5
+reliably asses "clinical medicine" N gram 2 2.0
+
+Prior Probability {biomedical research=0.17159218841471655, engineering=0.17087617646617334, clinical medicine=0.16995451747999823, chemistry=0.12836277938726193, physics & astronomy=0.10553745928338765, information & communication technologies=0.09967426710097722, earth & environmental sciences=0.055700325732899035, mathematics & statistics=0.0469055374592834, biology=0.025973070745583093, general science & technology=0.010471487113286002, agriculture fisheries & forestry=0.006157402542818115, public health & health services=0.005863192182410425, built environment & design=0.0029315960912052125}
+Posterior Probability {clinical medicine=0.4051445690007924, biomedical research=0.1800671260355181, economics & business =0.12004196881321912, enabling & strategic technologies=0.11989729515311084, philosophy & theology=0.06755748820475965, historical studies=0.05886617877561795, public health & health services=0.048425374016982124, chemistry=0.0}
+Final result {clinical medicine=0.6882986414144022, biomedical research=0.3088631697243044, public health & health services=0.0028381888612933628, enabling & strategic technologies=0.0}
+Reverse citation clinical medicine biomedical research biomedical research biomedical research biomedical research 
+Precision: 0.9411764705882353
+######################### Patent ###############################
+"A set S is initialized. Initially, S is empty; but, as the disclosed process is performed, items are added to it. It may contain one or more samples (e.g., items) from each class. One or more labeled samples for one or more classes may be obtained. A series of operations may be performed, iteratively, until a stopping criterion is reach to obtain the reduced set. For each class of the one or more classes, a point may be generated based on at least one sample in the class having a nearest neighbor in a set S with a different class label than the sample. The point may be added to the set S. The process may be repeated unless a stopping criterion is reached. A nearest neighbor for a submitted point in the set S may be identified and a candidate nearest neighbor may be output for the submitted point."
+serie biomedical research N gram 1 1.0
+sample mathematics & statistics N gram 1 0.5654339462086461
+classe clinical medicine N gram 1 1.0
+disclosed proces "engineering" N gram 2 2.0
+generated based "information & communication technologies" N gram 2 2.0
+nearest neighbor "information & communication technologies" N gram 2 2.0
+candidate output "information & communication technologies" N gram 2 2.0
+clas labeled "clinical medicine" N gram 2 2.0
+
+Prior Probability {information & communication technologies=0.6048034934497816, engineering=0.13755458515283842, clinical medicine=0.10698689956331876, mathematics & statistics=0.056768558951965066, psychology & cognitive sciences=0.043668122270742356, built environment & design=0.03275109170305676, economics & business =0.010917030567685589, earth & environmental sciences=0.004366812227074236, chemistry=0.002183406113537118}
+Posterior Probability {information & communication technologies=0.4774955357088542, clinical medicine=0.23874686635919987, engineering=0.15916727493559046, biomedical research=0.0795860117645349, mathematics & statistics=0.04500431123182051, chemistry=0.0}
+Final result {information & communication technologies=0.8519999830669827, clinical medicine=0.07535711467995534, engineering=0.06459290722054853, mathematics & statistics=0.00753733761756014, biomedical research=5.126574149533703E-4, chemistry=0.0}
+Reverse citation information & communication technologies engineering information & communication technologies information & communication technologies information & communication technologies information & communication technologies 
+Precision: 0.9420289855072463
+######################### Patent ###############################
+"A magnetic field sensor includes a first magnetic field sensing element configured to produce a first signal representing a detected external magnetic field; a circular vertical hall element configured to produce a second signal representing an amplitude of the external magnetic field; and an error compensation circuit coupled to receive the first and second signal, compute an error value based on the amplitude of the external magnetic field, and apply the error value to the first signal to compensate for an error in the first signal."
+circuit engineering N gram 1 0.5428058071122389
+amplitude physics & astronomy N gram 1 0.6336027009271392
+compensate physics & astronomy N gram 1 1.0
+compute information & communication technologies N gram 1 0.5141927186637654
+error mathematics & statistics N gram 1 0.6541104340828623
+field sensor "engineering" N gram 2 2.0
+sensor include "engineering" N gram 2 2.0
+element configured "engineering" N gram 2 1.0
+signal representing "engineering" N gram 2 2.0
+detected external "engineering" N gram 2 2.0
+circular vertical "engineering" N gram 2 2.0
+vertical hall "engineering" N gram 2 2.0
+error compensation "engineering" N gram 2 2.0
+compensation circuit "engineering" N gram 2 2.0
+circuit coupled "engineering" N gram 2 1.0
+circuit coupled "information & communication technologies" N gram 2 1.0
+value based "information & communication technologies" N gram 2 1.3333333333333333
+sensing element configured "physics & astronomy" N gram 3 1.5
+magnetic field sensor "engineering" N gram 3 3.0
+field sensor include "engineering" N gram 3 3.0
+sensing element configured "engineering" N gram 3 1.5
+circular vertical hall "engineering" N gram 3 3.0
+error compensation circuit "engineering" N gram 3 3.0
+compensation circuit coupled "engineering" N gram 3 3.0
+
+Prior Probability {engineering=0.2071713147410358, biomedical research=0.1912350597609561, chemistry=0.17131474103585656, physics & astronomy=0.14342629482071712, information & communication technologies=0.13545816733067728, earth & environmental sciences=0.07569721115537847, mathematics & statistics=0.06374501992031871, public health & health services=0.007968127490039839, biology=0.003984063745019919}
+Posterior Probability {engineering=0.8407970828150707, physics & astronomy=0.07518723771368517, information & communication technologies=0.06832051158862489, mathematics & statistics=0.0156951678826193, chemistry=0.0}
+Final result {engineering=0.8922342328722381, physics & astronomy=0.05523711310186571, information & communication technologies=0.04740393227288673, mathematics & statistics=0.005124721753009325, chemistry=0.0}
+Reverse citation information & communication technologies engineering engineering chemistry 
+Precision: 0.9428571428571428
